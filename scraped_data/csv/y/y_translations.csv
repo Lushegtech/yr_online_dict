@@ -1,0 +1,166 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,part,verb,high
+2,1,part TraverseGPAware,verb,high
+3,2,Yakubu GowonHeiNER - the,phrase,high
+4,4,bake,verb,high
+5,4,choose,verb,high
+6,4,march,verb,high
+7,4,roast,verb,high
+8,4,roast Mo fẹ́yanẹja lónìíI want toroastfish today,verb,high
+9,5,boast,verb,high
+10,6,gravel,noun,high
+11,6,sand,noun,high
+12,8,particular,adjective,high
+13,8,particular GlosbeResearch,adjective,high
+14,9,eligible,adjective,high
+15,9,eligible GlosbeResearch,adjective,high
+16,10,Republic of Yemen,noun,high
+17,11,Republic of Yemen,noun,high
+18,12,Yemanjá,noun,high
+19,12,Yemoja,noun,high
+20,13,that,noun,high
+21,13,that pro GlTrav3,noun,high
+22,14,ice-skate,verb,high
+23,14,ice-skateverbskate on iceen,verb,high
+24,15,goblet drum,noun,high
+25,16,Convert to Shape,phrase,high
+26,18,English,adjective,high
+27,18,yoruba teacher,noun,medium
+28,19,The Yoruba language.en,phrase,high
+29,19,Yoruba,noun,high
+30,19,Could you teach me,phrase,medium
+31,19,Yorubaland,noun,medium
+32,20,The Yoruba language.en,phrase,high
+33,20,Yoruba,noun,high
+34,20,Could you teach me,phrase,medium
+35,20,Yorubaland,noun,medium
+36,21,university,noun,high
+37,21,chancellor,noun,medium
+38,21,harvard university,noun,medium
+39,21,princeton university,noun,medium
+40,22,university,noun,high
+41,22,chancellor,noun,medium
+42,22,harvard university,noun,medium
+43,22,princeton university,noun,medium
+44,23,draw,verb,high
+45,23,draw To move or develop something.The Linguazee,verb,high
+46,24,barren,adjective,high
+47,25,elect,verb,high
+48,25,vote,verb,high
+49,25,vote TraverseGPAware,verb,high
+50,25,multiple selection,noun,medium
+51,25,option button,noun,medium
+52,25,option group,noun,medium
+53,25,optional hyphen,noun,medium
+54,25,Options,verb,medium
+55,25,picklist,noun,medium
+56,25,Power Options,verb,medium
+57,26,choose,verb,high
+58,26,pick,verb,high
+59,26,pick out,verb,high
+60,26,select,verb,high
+61,27,cheat,noun,high
+62,27,cheat GlosbeResearch,noun,high
+63,28,gnat,noun,high
+64,28,midge,noun,high
+65,28,mosquito,noun,high
+66,29,examine,verb,high
+67,29,explore,verb,high
+68,30,bedroom,noun,high
+69,30,cabin,noun,high
+70,30,room,noun,high
+71,30,hall,noun,medium
+72,31,hall,noun,high
+73,31,hall TraverseGPAware,noun,high
+74,32,become paralyzed,verb,high
+75,32,become paralyzedborabi,noun,high
+76,33,internet fraudster,noun,high
+77,33,Yahoo! user,noun,high
+78,34,either,conjunction,high
+79,34,either TraverseGPAware,conjunction,high
+80,35,qualify,verb,high
+81,35,qualify TraverseGPAware,verb,high
+82,35,yawn,verb,high
+83,35,Filter Excluding Selection,phrase,medium
+84,36,shark,verb,high
+85,36,shark nouna shark,verb,high
+86,37,active,adjective,high
+87,37,active TraverseGPAware,adjective,high
+88,37,quick,adjective,high
+89,37,rapid,noun,medium
+90,38,rapid,adjective,high
+91,39,quickly,adverb,high
+92,39,quickly TraverseGPAware,adverb,high
+93,40,understand,verb,high
+94,41,praise,noun,high
+95,41,after,noun,medium
+96,41,append query,noun,medium
+97,41,Back,noun,medium
+98,41,invertebrate,noun,medium
+99,41,rewind,noun,medium
+100,41,undo,noun,medium
+101,41,vertebrate,noun,medium
+102,43,shoot,verb,high
+103,43,shoot Moyìnbọnpa ẹrankoIshotan animal,verb,high
+104,44,glorify,verb,high
+105,44,glorify GlosbeResearch,verb,high
+106,45,ice,noun,high
+107,45,snow,noun,high
+108,45,hail,noun,medium
+109,45,it is snowing,phrase,medium
+110,46,it is snowing,phrase,high
+111,47,invert,verb,high
+112,48,turn,verb,high
+113,49,about,noun,high
+114,49,circle,verb,high
+115,49,circle TraverseGPAware,noun,high
+116,50,dung beetle,noun,high
+117,51,hatch,verb,high
+118,51,hatch TraverseGPAware,verb,high
+119,51,you,pronoun,high
+120,51,yours,pronoun,high
+121,51,I love you,phrase,medium
+122,52,overturn,verb,high
+123,52,overturn TraverseGPAware,verb,high
+124,52,reverse,verb,high
+125,52,reverse GlTrav3,verb,high
+126,52,roll back,verb,high
+127,52,turn over,verb,high
+128,52,turn over TraverseGPAware,verb,high
+129,52,changed lines,verb,medium
+130,53,change,verb,high
+131,53,change TraverseGPAware,verb,high
+132,54,Rotate 180,noun,high
+133,55,Rotate 270,noun,high
+134,56,Rotate 90,noun,high
+135,57,open,adjective,high
+136,57,open TraverseGPAware,adjective,high
+137,57,inking,verb,medium
+138,58,inking,noun,high
+139,59,alternative,noun,high
+140,59,alternative TraverseGPAware,noun,high
+141,59,choice,noun,high
+142,59,election,noun,high
+143,59,election TraverseGPAware,noun,high
+144,59,check box,noun,medium
+145,59,check mark,noun,medium
+146,59,eligible,adjective,medium
+147,60,different,adjective,high
+148,61,imaging,noun,high
+149,61,imaging device,noun,medium
+150,61,Printing and Imaging Devices,phrase,medium
+151,62,yawn,noun,high
+152,62,yawn TraverseGPAware,noun,high
+153,63,digital ink,noun,high
+154,64,gloss optimizer,noun,high
+155,65,drunk,noun,high
+156,66,itch,verb,high
+157,66,abortion,noun,medium
+158,66,miscarriage,noun,medium
+159,67,earring,noun,high
+160,68,Remove Background,noun,high
+161,69,shuffle,verb,high
+162,70,indent,verb,high
+163,71,melt,verb,high
+164,71,melt Yìnyín tiyọ́The snow'smelted,verb,high
+165,71,Oyo State,noun,medium

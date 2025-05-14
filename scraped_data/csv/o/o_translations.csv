@@ -1,0 +1,1641 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,congratulations,interjection,high
+2,1,well done,interjection,high
+3,2,king,noun,high
+4,2,kingnouna male of a royal family who,noun,high
+5,2,queen,noun,medium
+6,3,woman,noun,high
+7,4,kola nut,noun,high
+8,4,caffeine,noun,medium
+9,5,circle,noun,high
+10,7,parrot,noun,high
+11,7,parroten,noun,high
+12,7,parrotnounsv.wiktionary.org,noun,high
+13,8,Mortar,noun,high
+14,8,coprocessor,noun,medium
+15,8,Pestle,noun,medium
+16,9,central processing unit,noun,high
+17,9,microprocessor,noun,high
+18,9,processor,noun,high
+19,9,coprocessor,noun,medium
+20,10,Chukwuemeka Odumegwu Ojukwu,phrase,high
+21,10,Chukwuemeka Odumegwu OjukwuHeiNER-the-,phrase,high
+22,11,grudge,verb,high
+23,11,grudge GlosbeResearch,verb,high
+24,11,malice,noun,high
+25,11,malice TraverseGPAware,verb,high
+26,12,gray parrot,noun,high
+27,12,parrot,noun,high
+28,12,parrot nounorder of birds,phrase,high
+29,12,Parrots,verb,high
+30,13,gray parrot,noun,high
+31,13,Parrot,noun,high
+32,13,parrot nounorder of birds,phrase,high
+33,13,Parrots,verb,high
+34,14,brook,noun,high
+35,14,brook TraverseGPAware,noun,high
+36,14,river,noun,high
+37,14,stream,noun,high
+38,14,Niger River,noun,medium
+39,14,river basin,noun,medium
+40,14,riverbank,noun,medium
+41,14,riverbed,verb,medium
+42,14,shrimp farm,noun,medium
+43,15,brook,noun,high
+44,15,brook TraverseGPAware,noun,high
+45,15,river,verb,high
+46,15,stream,noun,high
+47,15,Niger River,noun,medium
+48,15,river basin,noun,medium
+49,15,riverbank,noun,medium
+50,15,riverbed,verb,medium
+51,15,shrimp farm,noun,medium
+52,16,danube,noun,high
+53,17,stream,verb,high
+54,18,Niger River,noun,high
+55,18,Niger River HeiNER - the,noun,high
+56,19,Niger River,noun,high
+57,20,shrimp farm,noun,high
+58,21,Niger River,noun,high
+59,22,mortar,verb,high
+60,22,canal,adjective,medium
+61,23,canal,noun,high
+62,23,canal TraverseGPAware,noun,high
+63,24,arrow,noun,high
+64,24,arrow GlosbeResearch,noun,high
+65,25,old age,noun,high
+66,26,fashion,verb,high
+67,26,fashion Abz Zayne,verb,high
+68,27,Plantain,noun,high
+69,28,Oggy and the Cockroaches,phrase,high
+70,29,wall,verb,high
+71,29,wall Ifedayo H Ayeni,verb,high
+72,30,calf,noun,high
+73,30,calf TraverseGPAware,noun,high
+74,31,battle,noun,high
+75,31,fight,noun,high
+76,31,war,noun,high
+77,31,warfare,noun,high
+78,31,American Civil War,phrase,medium
+79,31,general,adjective,medium
+80,31,Nigerian Civil War,phrase,medium
+81,31,unarmed,verb,medium
+82,31,world war,noun,medium
+83,32,battle,noun,high
+84,32,fight,noun,high
+85,32,war,verb,high
+86,32,warfare,noun,high
+87,32,American Civil War,phrase,medium
+88,32,general,adjective,medium
+89,32,Nigerian Civil War,phrase,medium
+90,32,Ogun State,noun,medium
+91,32,world war,noun,medium
+92,33,Nigerian Civil War,phrase,high
+93,33,Nigerian Civil WarHeiNER-the-,phrase,high
+94,34,American Civil War,phrase,high
+95,35,Nigerian Civil War,phrase,high
+96,36,Second World War,phrase,high
+97,36,World War II,phrase,high
+98,37,world war,noun,high
+99,38,world war,noun,high
+100,39,crowd,noun,high
+101,39,large crowd,noun,high
+102,40,140,adjective,high
+103,40,140adjective,adjective,high
+104,40,one hundred and fourty,adjective,high
+105,41,forty,noun,high
+106,42,Ogunen,noun,high
+107,42,score,noun,high
+108,42,twenty,noun,high
+109,42,twenty past one in the afternoon,phrase,medium
+110,43,Ogunen,noun,high
+111,43,score,noun,high
+112,43,twenty,noun,high
+113,43,twenty past one in the afternoon,phrase,medium
+114,44,refugee,verb,high
+115,44,refugee Gbenro Adekunle David,verb,high
+116,45,object,verb,high
+117,45,thing,verb,high
+118,45,Credential Manager,noun,medium
+119,45,credentials,verb,medium
+120,45,data storage,noun,medium
+121,45,enjoyable,adjective,medium
+122,45,imaging device,noun,medium
+123,45,weapon,noun,medium
+124,47,local object,noun,high
+125,48,Automation object,noun,high
+126,50,anything,noun,high
+127,50,nothing,noun,high
+128,50,nothing pro Kò síohun kankanThere'snothing,noun,high
+129,51,beverage,noun,high
+130,51,coffee,noun,high
+131,51,coffeenounbeverageen.wiktionary2016,noun,high
+132,52,radioactive,adjective,high
+133,52,radioactive TraverseGPAware,adjective,high
+134,53,importance,noun,high
+135,53,importance TraverseGPAware,noun,high
+136,54,goodness,noun,high
+137,55,object,noun,high
+138,56,adhesive,adjective,high
+139,56,adhesive GlosbeResearch,adjective,high
+140,57,embedded object,noun,high
+141,57,inline object,noun,medium
+142,58,inline object,noun,high
+143,59,personally identifiable information,phrase,high
+144,60,data storage,noun,high
+145,60,data storagerecording of data in a storage medium,phrase,high
+146,61,unbound object,noun,high
+147,62,fact,noun,high
+148,62,fact TraverseGPAware,noun,high
+149,63,property,verb,high
+150,63,asymmetric,adjective,medium
+151,63,symmetric,adjective,medium
+152,64,symmetric,adjective,high
+153,65,asymmetric,adjective,high
+154,66,quality,adjective,high
+155,66,quality nounphilosophical attribute or,adjective,high
+156,67,obstacle,noun,high
+157,67,obstacle TraverseGPAware,noun,high
+158,68,deposit,noun,high
+159,68,deposit TraverseGPAware,noun,high
+160,69,enjoyable,adjective,high
+161,69,enjoyable TraverseGPAware,adjective,high
+162,70,public domain,noun,high
+163,71,weapon,noun,high
+164,72,building material,noun,high
+165,72,building materialnounmaterial which,noun,high
+166,73,acquisition,noun,high
+167,73,property,noun,high
+168,73,document,noun,medium
+169,74,radioactive,adjective,high
+170,74,radioactive TraverseGPAware,adjective,high
+171,75,obscenity,noun,high
+172,75,obscenity TraverseGPAware,noun,high
+173,76,toy,verb,high
+174,77,carrot,noun,high
+175,77,carrot TraverseGPAware,noun,high
+176,78,plant,noun,high
+177,79,jewellery,noun,high
+178,79,jewellerynounform of personal adornment,noun,high
+179,80,apparatus,noun,high
+180,80,apparatus GlosbeResearch,noun,high
+181,80,appliance,noun,high
+182,80,device,noun,high
+183,80,custom toolbar,noun,medium
+184,80,device driver,noun,medium
+185,80,device metadata package,phrase,medium
+186,80,hardware failure,noun,medium
+187,80,hardware interface,noun,medium
+188,80,imaging device,noun,medium
+189,80,Printing and Imaging Devices,phrase,medium
+190,81,capture device,noun,high
+191,82,volume snapshot device,phrase,high
+192,83,input device,noun,high
+193,84,imaging device,noun,high
+194,85,add-on device,noun,high
+195,86,Data Communications Equipment,noun,high
+196,87,pointing device,noun,high
+197,88,multifunction device,noun,high
+198,89,weapon,noun,high
+199,89,weapon TraverseGPAware,noun,high
+200,90,credentials,noun,high
+201,90,Credential Manager,noun,medium
+202,91,anything,noun,high
+203,91,anything pronounohun-kí-ohun,noun,high
+204,91,nature,noun,medium
+205,92,pitch,verb,high
+206,92,sound,adjective,high
+207,92,sound interjectionmechanical wave that,verb,high
+208,92,voice,noun,high
+209,92,acute accent,noun,medium
+210,92,audio,noun,medium
+211,92,audio recording,verb,medium
+212,92,audio storage device,phrase,medium
+213,92,call,verb,medium
+214,92,ratify,noun,medium
+215,92,ringtone,noun,medium
+216,92,voice recognition,noun,medium
+217,93,Sepia Tone,noun,high
+218,94,audio,noun,high
+219,95,audio,noun,high
+220,96,petroleum,noun,high
+221,96,petroleum GlosbeResearch,noun,high
+222,97,juice,noun,high
+223,97,juice TraverseGPAware,noun,high
+224,97,sap,noun,medium
+225,98,sap,noun,high
+226,98,sap TraverseGPAware,noun,high
+227,99,myrrh,noun,high
+228,100,silhouette,noun,high
+229,101,coward,noun,high
+230,101,it's been a while,phrase,medium
+231,102,daily,adjective,high
+232,102,every day,adjective,high
+233,103,eye,verb,high
+234,104,ulcer,noun,high
+235,104,ulcer GlTrav3,noun,high
+236,105,genue,noun,high
+237,105,original,adjective,high
+238,105,"original, genue",noun,high
+239,106,cheek,noun,high
+240,106,cheek Glosbe Research,noun,high
+241,106,eye,noun,high
+242,106,eyes,verb,high
+243,106,cargo ship,noun,medium
+244,106,extended desktop,noun,medium
+245,106,grid origin,noun,medium
+246,106,notes page,noun,medium
+247,106,page setup,noun,medium
+248,106,page title,noun,medium
+249,106,weather,noun,medium
+250,107,cheek,noun,high
+251,107,cheek Glosbe Research,noun,high
+252,107,eye,verb,high
+253,107,eyes,verb,high
+254,107,cargo ship,noun,medium
+255,107,extended desktop,noun,medium
+256,107,grid origin,noun,medium
+257,107,notes page,noun,medium
+258,107,page setup,noun,medium
+259,107,page title,noun,medium
+260,107,weather,noun,medium
+261,108,window,noun,high
+262,109,button face,noun,high
+263,110,webpage,noun,high
+264,111,phone screen,noun,high
+265,112,edge,noun,high
+266,112,edge TraverseGPAware,noun,high
+267,113,weather,noun,high
+268,114,on the street,adverb,high
+269,115,air,noun,high
+270,115,air TraverseGPAware,noun,high
+271,116,breakpoint,noun,high
+272,117,insertion point,noun,high
+273,118,port,verb,high
+274,118,communications port,noun,medium
+275,118,serial port,noun,medium
+276,119,serial port,noun,high
+277,120,communications port,noun,high
+278,121,page,verb,high
+279,121,notes page,noun,medium
+280,121,page setup,noun,medium
+281,121,page title,noun,medium
+282,121,Web page,noun,medium
+283,121,worksheet,noun,medium
+284,122,Active Server Pages,phrase,high
+285,123,datasheet,noun,high
+286,124,home page,noun,high
+287,124,folder home page,phrase,medium
+288,125,folder home page,phrase,high
+289,126,worksheet,noun,high
+290,127,code page,noun,high
+291,128,master page,noun,high
+292,129,Today page,noun,high
+293,130,web page,noun,high
+294,131,Web page,noun,high
+295,132,property page,noun,high
+296,134,climate,verb,high
+297,134,weather forecast,noun,medium
+298,135,desktop,noun,high
+299,135,desktop gadget,noun,medium
+300,135,Desktop Gadget Gallery,phrase,medium
+301,135,extended desktop,noun,medium
+302,135,Insert Screen Shot,phrase,medium
+303,136,extended desktop,noun,high
+304,137,cached page,noun,high
+305,138,Web site,noun,high
+306,139,site,noun,high
+307,140,weather,verb,high
+308,140,weather nounstate of the atmosphere,verb,high
+309,140,climate change,noun,medium
+310,140,climatology,noun,medium
+311,141,ro,adjective,high
+312,141,ro nounway on land between two places,adjective,high
+313,141,ro transport,noun,medium
+314,141,transport network,noun,medium
+315,142,shrine,verb,high
+316,143,article,verb,high
+317,143,news article,noun,medium
+318,144,news article,noun,high
+319,144,news articlenounarticle that,noun,high
+320,145,shin,noun,high
+321,146,face-to-face,noun,high
+322,147,Home,noun,high
+323,147,Windows Live Home,phrase,medium
+324,148,Windows Live Home,phrase,high
+325,149,cell,noun,high
+326,149,"cell In a cube, the set of",noun,high
+327,149,cell reference,noun,medium
+328,149,cell spacing,verb,medium
+329,149,home cell,noun,medium
+330,149,input cell,noun,medium
+331,149,merged cell,noun,medium
+332,150,home cell,noun,high
+333,151,merged cell,noun,high
+334,152,web site,noun,high
+335,152,website,noun,high
+336,153,web site,noun,high
+337,153,website,noun,high
+338,154,phishing website,noun,high
+339,155,Windows Update website,phrase,high
+340,156,input cell,noun,high
+341,157,authentic,adjective,high
+342,157,genuine,adjective,high
+343,157,genuine Pertaining to Microsoft software which,adjective,high
+344,157,original,adjective,high
+345,157,quality,adjective,high
+346,157,quality nounphysical,adjective,high
+347,157,Standard toolbar,noun,medium
+348,158,Standard toolbar,noun,high
+349,159,daylight,noun,high
+350,159,daytime,noun,high
+351,160,broadband,noun,high
+352,160,broadband connection,noun,medium
+353,161,scar,noun,high
+354,161,scar GlTrav3,noun,high
+355,162,atmosphere,noun,high
+356,163,atmosphere,noun,high
+357,165,farm,noun,high
+358,165,barbaric,adjective,medium
+359,165,captivity,noun,medium
+360,165,fertilizer,noun,medium
+361,165,pasture,noun,medium
+362,166,pasture,noun,high
+363,167,captivity,noun,high
+364,167,captivity GlosbeResearch,noun,high
+365,168,slavery,noun,high
+366,169,slavery,noun,high
+367,170,corpse,verb,high
+368,170,corpse nouna de bodyIfedayo H Ayeni,verb,high
+369,171,darkness,noun,high
+370,171,darknessnounstate of being darken.wiktionary2016,noun,high
+371,172,ship,noun,high
+372,172,ship GlTrav3,noun,high
+373,172,petroleum,noun,medium
+374,173,penis,noun,high
+375,173,penis TraverseGPAware,noun,high
+376,174,rope,noun,high
+377,174,chord,noun,medium
+378,175,chord,noun,high
+379,175,chord TraverseGPAware,noun,high
+380,176,cause,noun,high
+381,176,factor,noun,high
+382,176,factor Okùnfàkọ́ nìyẹn.That's not afactor,noun,high
+383,177,almighty,adjective,high
+384,177,almighty Ganiu,adjective,high
+385,178,Wealth,noun,high
+386,178,Aje-ola,noun,medium
+387,179,caten,noun,high
+388,180,caten,noun,high
+389,181,sparrowen,noun,high
+390,182,olasa,noun,high
+391,183,Northern Cyprus,verb,high
+392,184,Orange-cheeked waxbill,noun,high
+393,184,Orange-cheeked waxbill Estrilda melpoda,noun,high
+394,185,infrastructure master,noun,high
+395,186,God,noun,high
+396,187,deity,noun,high
+397,188,teacher,noun,high
+398,189,master,adjective,high
+399,190,Downlo Manager,noun,high
+400,191,Olusegun Obasanjo,noun,high
+401,191,Olusegun ObasanjoHeiNER - the,phrase,high
+402,192,God,noun,high
+403,194,bandit,noun,high
+404,194,thief,noun,high
+405,194,thief Olèjí i!Athiefstole it,noun,high
+406,195,password stealer,noun,high
+407,196,nightingale,noun,high
+408,196,nightingale Luscinia megarhynchos,noun,high
+409,197,faithful,adjective,high
+410,197,just,adjective,high
+411,198,florist,noun,high
+412,198,florist TraverseGPAware,noun,high
+413,199,almighty,adjective,high
+414,199,god,adjective,high
+415,200,almighty,adjective,high
+416,200,God,noun,high
+417,201,cat,adjective,high
+418,202,cat,noun,high
+419,203,African pied wagtail,noun,high
+420,203,African pied wagtail Motacilla aguimp,noun,high
+421,204,cat,noun,high
+422,204,catnoundomestic speciesen.wiktionary2016,noun,high
+423,205,vocal,adjective,high
+424,205,vocal nounshort lyric in instrumental music,adjective,high
+425,206,juicy,adjective,high
+426,206,juicy TraverseGPAware,adjective,high
+427,206,sappy,adjective,high
+428,206,sappy GlTrav3,adjective,high
+429,207,jealous,noun,high
+430,207,jealous TraverseGPAware,noun,high
+431,208,farmer,noun,high
+432,208,farmer TraverseGPAware,noun,high
+433,208,gardener,noun,high
+434,208,gardener TraverseGPAware,noun,high
+435,209,loved one,noun,high
+436,209,lover,noun,high
+437,210,fluid,adjective,high
+438,210,liquid,adjective,high
+439,210,water park,noun,medium
+440,211,catering company,noun,high
+441,212,two-dimensional,adjective,high
+442,213,three-dimensional,adjective,high
+443,214,musician,noun,high
+444,214,singer,noun,high
+445,214,gospel singer,noun,medium
+446,214,opera,noun,medium
+447,215,gospel singer,noun,high
+448,216,captain,noun,high
+449,216,he,adjective,high
+450,216,leader,noun,high
+451,216,computer-to-computer network,noun,medium
+452,216,general,adjective,medium
+453,216,he of government,phrase,medium
+454,216,he of state,phrase,medium
+455,216,hod,noun,medium
+456,216,master page,noun,medium
+457,216,master shape,noun,medium
+458,217,general,noun,high
+459,218,he of state,noun,high
+460,219,hod,verb,high
+461,220,he of government,noun,high
+462,221,master shape,noun,high
+463,222,edit,verb,high
+464,222,edit TraverseGPAware,verb,high
+465,222,editor,noun,high
+466,222,editor TraverseGPAware,verb,high
+467,223,capitalist,noun,high
+468,223,capitalist TraverseGPAware,noun,high
+469,224,genius,noun,high
+470,224,genius TraverseGPAware,noun,high
+471,225,pharmacist,noun,high
+472,226,portrait,noun,high
+473,226,portrait orientation,noun,high
+474,226,vertical,noun,high
+475,226,vertical GlTrav3,noun,high
+476,226,straight quotation mark,phrase,medium
+477,226,vertical alignment,noun,medium
+478,226,vertical bar,noun,medium
+479,227,Sync Manager,noun,high
+480,227,Synchronization Manager,noun,high
+481,228,producer,noun,high
+482,228,film producer,noun,medium
+483,228,record producer,noun,medium
+484,229,film producer,noun,high
+485,230,record producer,noun,high
+486,231,politician,noun,high
+487,231,political organization,noun,medium
+488,231,political party,noun,medium
+489,232,Suggested Contacts,verb,high
+490,233,contact,noun,high
+491,233,contact An individual who,noun,high
+492,233,Contact index,noun,medium
+493,233,Contacts,verb,medium
+494,234,Rules Manager,noun,high
+495,235,director,noun,high
+496,235,operations master,noun,medium
+497,236,operations master,noun,high
+498,237,respondent,noun,high
+499,237,respondent GlTrav3,noun,high
+500,237,responder,noun,high
+501,238,contributor,noun,high
+502,239,author,noun,high
+503,239,brain,verb,high
+504,239,brain Mallow82,noun,high
+505,239,founder,noun,high
+506,239,initiator,noun,high
+507,239,Author Marks,verb,medium
+508,240,Windows Defender,noun,medium
+509,241,sender,noun,high
+510,241,Blocked Senders List,phrase,medium
+511,241,Safe Senders List,phrase,medium
+512,242,receiver,noun,high
+513,242,receiver GlosbeResearch,noun,high
+514,242,recipient,noun,high
+515,242,recipient TraverseGPAware,noun,high
+516,243,author,noun,high
+517,244,master,adjective,high
+518,244,master Glosbe Research,adjective,high
+519,244,scholar,noun,high
+520,244,scholar Glosbe Research,adjective,high
+521,244,teacher,noun,high
+522,244,teacher TraverseGPAware,adjective,high
+523,244,tutor,noun,high
+524,244,tutor TraverseGPAware,adjective,high
+525,245,challenger,noun,high
+526,245,challenger TraverseGPAware,noun,high
+527,246,host,noun,high
+528,246,provider,noun,high
+529,246,service provider,noun,high
+530,246,access provider,noun,medium
+531,246,game provider,noun,medium
+532,246,Internet access provider,phrase,medium
+533,246,Internet service provider,phrase,medium
+534,247,game provider,noun,high
+535,248,access provider,noun,high
+536,248,Internet access provider,phrase,medium
+537,249,Internet access provider,phrase,high
+538,250,Internet service provider,noun,high
+539,251,slicer,noun,high
+540,252,dialer,noun,high
+541,253,assistant,adjective,high
+542,253,assistant nounborabi,adjective,high
+543,254,connector,noun,high
+544,255,coefficient,noun,high
+545,255,coefficient nounnumber just before a variable,adjective,high
+546,256,coefficient,adjective,high
+547,256,coefficient nounnumber just before a variable,adjective,high
+548,257,publisher,noun,high
+549,258,being,noun,high
+550,259,architect,noun,high
+551,260,ridiculer,noun,high
+552,261,mushroom,noun,high
+553,261,federal capital,adjective,medium
+554,261,headquarters,verb,medium
+555,262,headquarters,noun,high
+556,263,capital,adjective,high
+557,263,capital nounprimary city of a political entity,adjective,high
+558,263,mainland,noun,high
+559,263,mainland TraverseGPAware,adjective,high
+560,263,federal capital,adjective,medium
+561,264,federal capital,adjective,high
+562,264,federal capitalcapital city in a federal state,phrase,high
+563,265,adviser,noun,high
+564,265,adviser Isokan Omo'Odua,noun,high
+565,266,six-fingered person,noun,high
+566,267,capital city,noun,high
+567,269,water,noun,high
+568,269,wateren,noun,high
+569,269,baptize,noun,medium
+570,269,cargo ship,noun,medium
+571,269,drown,noun,medium
+572,269,flood,noun,medium
+573,269,juicy,noun,medium
+574,269,sea,noun,medium
+575,269,seaport,noun,medium
+576,269,tap,noun,medium
+577,270,ice,noun,high
+578,271,juice,noun,high
+579,271,juice TraverseGPAware,noun,high
+580,272,Sugar Cane water,phrase,high
+581,272,Sugar Cane waterdictionaric.com,phrase,high
+582,273,water supply,noun,high
+583,273,water supplynoundictionaric.com,noun,high
+584,274,pond,verb,high
+585,275,orange juice,noun,high
+586,276,girl,noun,high
+587,276,maid,noun,high
+588,276,maid TraverseGPAware,noun,high
+589,276,maiden,noun,high
+590,277,tear,verb,high
+591,277,tear GlTrav3,verb,high
+592,278,acid,adjective,high
+593,279,acid,noun,high
+594,280,acid,adjective,high
+595,281,gravy,noun,high
+596,281,gravy TraverseGPAware,noun,high
+597,282,Pestle,noun,high
+598,283,toe,noun,high
+599,283,toe GlTrav3,noun,high
+600,284,Wheelbarrow,noun,high
+601,285,drunkard,noun,high
+602,286,onchocerciasis Human helminthiasis,noun,high
+603,288,adviser,noun,high
+604,288,consultant,noun,high
+605,288,counselor,noun,high
+606,289,fare,verb,high
+607,289,fare GlosbeResearch,verb,high
+608,289,cater,noun,medium
+609,289,noodle,noun,medium
+610,289,wallet,noun,medium
+611,291,-er,noun,high
+612,291,-erSuffix person or thing that does,phrase,high
+613,291,read-only memory,noun,medium
+614,292,participant,noun,high
+615,292,participant TraverseGPAware,noun,high
+616,293,clientele,noun,high
+617,293,customer,noun,high
+618,293,Shape Client,noun,medium
+619,293,Software Licensing Commerce Client,phrase,medium
+620,293,Windows Activation Client,phrase,medium
+621,294,Shape Client,noun,high
+622,295,Windows Activation Client,phrase,high
+623,296,Software Licensing Commerce Client,phrase,high
+624,297,landscape,noun,high
+625,297,landscape orientation,noun,high
+626,297,compact row axis,phrase,medium
+627,297,gridline,noun,medium
+628,297,Horizontal Line,noun,medium
+629,298,magician,noun,high
+630,298,magician TraverseGPAware,noun,high
+631,299,fiddler,noun,high
+632,299,fiddler TraverseGPAware,noun,high
+633,300,security,noun,high
+634,300,security TraverseGPAware,noun,high
+635,301,barber,noun,high
+636,302,bevel,verb,high
+637,303,fighter,noun,high
+638,303,fighter TraverseGPAware,noun,high
+639,303,quarrelsome,adjective,high
+640,303,quarrelsome TraverseGPAware,noun,high
+641,304,Troublesome,noun,high
+642,305,dancer,noun,high
+643,306,monarch,noun,high
+644,306,monarchnounperson at the he of a monarchy,noun,high
+645,307,peaceful,adjective,high
+646,307,peaceful TraverseGPAware,adjective,high
+647,308,house-owner,noun,high
+648,308,house-ownerborabi,noun,high
+649,309,economist,noun,high
+650,310,scientist,noun,high
+651,310,marine biologist,noun,medium
+652,311,marine biologist,noun,high
+653,312,mathematician,noun,high
+654,313,mathematician,noun,high
+655,314,anthropologist,noun,high
+656,315,star,noun,high
+657,315,star Swadesh Lists,noun,high
+658,316,parasite,noun,high
+659,316,parasite TraverseGPAware,noun,high
+660,317,polynomial,adjective,high
+661,318,polynomial,noun,high
+662,319,user-friendly,adjective,high
+663,320,film maker,noun,high
+664,320,film makernouncreator of a cinematic work,noun,high
+665,321,monosyllabic,adjective,high
+666,322,disyllabic,adjective,high
+667,323,trisyllabic,adjective,high
+668,324,peaceful,adjective,high
+669,324,peaceful TraverseGPAware,adjective,high
+670,325,gentleman,noun,high
+671,325,gentleman TraverseGPAware,noun,high
+672,326,researcher,noun,high
+673,326,researchernounprofessional who engages in research,noun,high
+674,327,pastor,noun,high
+675,327,pastor TraverseGPAware,noun,high
+676,328,sceptical,adjective,high
+677,328,sceptical TraverseGPAware,adjective,high
+678,329,food establishment,noun,high
+679,330,business enterprise,noun,high
+680,331,artist,adjective,high
+681,331,artist GlosbeResearch,adjective,high
+682,331,designer,adjective,high
+683,332,artist,noun,high
+684,334,zero,adjective,high
+685,334,zero numeralIfedayo H Ayeni,adjective,high
+686,335,cure,noun,high
+687,335,drug,noun,high
+688,335,medicine,noun,high
+689,335,remedy,noun,high
+690,336,ulcer,noun,high
+691,336,ulcer TraverseGPAware,noun,high
+692,337,sleep,verb,high
+693,337,sleep mode,noun,medium
+694,337,sleeping sickness,verb,medium
+695,338,inept,adjective,high
+696,339,Cape Fig,noun,high
+697,340,widow,noun,high
+698,340,widower,noun,high
+699,341,friend,noun,high
+700,341,obligation,noun,high
+701,341,obligation GlosbeResearch,noun,high
+702,343,Shea butter,noun,high
+703,343,Shea butterIfedayo H Ayeni,phrase,high
+704,344,music,noun,high
+705,344,musicnounform of art using sound,noun,high
+706,344,poem,noun,high
+707,344,poem TraverseGPAware,noun,high
+708,344,song,noun,high
+709,344,tune,noun,high
+710,344,country music,adjective,medium
+711,344,music genre,noun,medium
+712,344,music track,noun,medium
+713,344,musical form,noun,medium
+714,344,musical work,noun,medium
+715,344,record producer,noun,medium
+716,344,soul music,adjective,medium
+717,345,music,noun,high
+718,345,musicnounform of art using sound,noun,high
+719,345,poem,noun,high
+720,345,poem TraverseGPAware,noun,high
+721,345,song,noun,high
+722,345,tune,noun,high
+723,345,country music,adjective,medium
+724,345,music genre,noun,medium
+725,345,music track,noun,medium
+726,345,musical form,noun,medium
+727,345,musical work,noun,medium
+728,345,record producer,noun,medium
+729,345,soul music,adjective,medium
+730,346,secular music,adjective,high
+731,346,secular musicmusic genre,phrase,high
+732,347,hip hop music,phrase,high
+733,348,singing,adjective,high
+734,349,My Music,adjective,high
+735,350,rhythm and blues,noun,high
+736,350,rhythm and bluesnounmusic genre,noun,high
+737,351,rhythm and blues,noun,high
+738,351,rhythm and bluesnounmusic genre,noun,high
+739,352,Song of Solomon,phrase,high
+740,352,Song of Songs,phrase,high
+741,354,soul music,noun,high
+742,354,soul musicnoungenre of music,noun,high
+743,355,pop music,noun,high
+744,356,popular music,noun,high
+745,357,single,adjective,high
+746,358,pop music,noun,high
+747,359,folk music,noun,high
+748,359,folk musicnounmusic genre,noun,high
+749,359,folk song,noun,high
+750,360,love song,noun,high
+751,361,church music,noun,high
+752,362,country music,noun,high
+753,362,country musicnoungenre of American popular music,noun,high
+754,363,religious music,noun,high
+755,363,religious musicnounmusic genre,noun,high
+756,364,hymn,verb,high
+757,364,hymn nountype of song,verb,high
+758,365,anthem,verb,high
+759,365,national anthem,noun,medium
+760,366,national anthem,noun,high
+761,367,Wealth,noun,high
+762,368,co-wife,noun,high
+763,369,groundnut Oil,noun,high
+764,369,groundnut OilIfedayo H Ayeni,phrase,high
+765,370,Night,noun,high
+766,370,nighten,noun,high
+767,370,summer,noun,medium
+768,371,Night,noun,high
+769,371,nighten,noun,high
+770,371,summer,noun,medium
+771,372,name,noun,high
+772,373,sleep,verb,high
+773,374,food,noun,high
+774,374,food GlosbeResearch,noun,high
+775,375,heat,noun,high
+776,375,heat TraverseGPAware,noun,high
+777,376,brain,verb,high
+778,376,brain Mallow82,verb,high
+779,376,chapter,noun,high
+780,376,he,noun,high
+781,376,age,noun,medium
+782,376,forehe,noun,medium
+783,376,gray hair,noun,medium
+784,376,message header,noun,medium
+785,376,part,noun,medium
+786,376,scan he,noun,medium
+787,376,tax,noun,medium
+788,377,gray hair,noun,high
+789,378,chapter,noun,high
+790,378,chapter TraverseGPAware,noun,high
+791,379,scan he,noun,high
+792,380,message header,noun,high
+793,381,joint,noun,high
+794,382,panegyric,noun,high
+795,382,panegyric Tife Lade,noun,high
+796,382,Quick Styles,verb,medium
+797,383,city-state,noun,high
+798,384,continent,adjective,high
+799,384,continent nounvery large landmass,adjective,high
+800,384,china,noun,medium
+801,384,constitutional republic,adjective,medium
+802,384,country code,noun,medium
+803,384,island nation,noun,medium
+804,384,republic,adjective,medium
+805,384,South Africa,noun,medium
+806,384,United Nations,verb,medium
+807,385,continent,noun,high
+808,385,continent nounvery large landmass,adjective,high
+809,385,china,noun,medium
+810,385,constitutional republic,adjective,medium
+811,385,country code,noun,medium
+812,385,island nation,noun,medium
+813,385,republic,adjective,medium
+814,385,South Africa,noun,medium
+815,385,United Nations,verb,medium
+816,386,country,noun,high
+817,386,nation,noun,high
+818,386,nation TraverseGPAware,noun,high
+819,386,nationality,noun,high
+820,386,nationality TraverseGPAware,noun,high
+821,386,china,noun,medium
+822,386,constitutional republic,adjective,medium
+823,386,country code,noun,medium
+824,386,island nation,noun,medium
+825,386,republic,adjective,medium
+826,386,South Africa,noun,medium
+827,386,United Nations,verb,medium
+828,387,constituent country,noun,high
+829,388,United States,verb,high
+830,388,United States of America,phrase,high
+831,388,US,pronoun,high
+832,388,USA,noun,high
+833,389,United Nations,verb,high
+834,390,Benin,noun,high
+835,391,island nation,noun,high
+836,392,South Africa,noun,high
+837,393,UK,adjective,high
+838,393,UKadjective,adjective,high
+839,394,communist state,noun,high
+840,395,Federal Republic of Nigeria,noun,high
+841,396,republic,noun,high
+842,396,republicnounform of State,noun,high
+843,396,Central African Republic,phrase,medium
+844,396,china,noun,medium
+845,396,constitutional republic,adjective,medium
+846,396,Republic of Angola,phrase,medium
+847,396,Republic of Benin,phrase,medium
+848,396,Republic of Botswana,phrase,medium
+849,397,republic,noun,high
+850,397,republicnounform of State,noun,high
+851,397,Central African Republic,phrase,medium
+852,397,china,noun,medium
+853,397,constitutional republic,adjective,medium
+854,397,Republic of Angola,phrase,medium
+855,397,Republic of Benin,phrase,medium
+856,397,Republic of Botswana,phrase,medium
+857,398,Republic of Benin,noun,high
+858,399,Republic of Botswana,phrase,high
+859,400,Republic of Angola,phrase,high
+860,401,constitutional republic,adjective,high
+861,401,constitutional republicForm of State,phrase,high
+862,402,Central African Republic,phrase,high
+863,403,china,noun,high
+864,404,socialist state,noun,high
+865,405,sovereign state,noun,high
+866,406,India,noun,high
+867,407,China,noun,high
+868,408,achievement,noun,high
+869,408,achievement TraverseGPAware,noun,high
+870,409,tunneling,noun,high
+871,410,source,noun,high
+872,410,data source,noun,medium
+873,410,header source,noun,medium
+874,410,source data,noun,medium
+875,410,source file,noun,medium
+876,410,Source Manager,noun,medium
+877,410,trusted source,noun,medium
+878,411,data source,noun,high
+879,412,trusted source,noun,high
+880,412,trusted sourceThe developer of a macro that,phrase,high
+881,413,header source,noun,high
+882,414,joint,adjective,high
+883,414,hip joint,noun,medium
+884,415,hip joint,noun,high
+885,416,poison,noun,high
+886,416,venom,noun,high
+887,416,malignant,noun,medium
+888,417,bitter kola,noun,high
+889,417,bitter kola nut,phrase,high
+890,418,vase,noun,high
+891,419,name,noun,high
+892,419,tulip,noun,medium
+893,420,tulip,noun,high
+894,421,knee,noun,high
+895,421,knee TraverseGPAware,noun,high
+896,422,name,noun,high
+897,422,defined name,noun,medium
+898,422,display name,noun,medium
+899,422,file name extension,phrase,medium
+900,422,male given name,phrase,medium
+901,422,noun,noun,medium
+902,422,pro,pronoun,medium
+903,422,table name,noun,medium
+904,422,trademark symbol,noun,medium
+905,423,name,verb,high
+906,423,defined name,noun,medium
+907,423,display name,noun,medium
+908,423,file name extension,phrase,medium
+909,423,male given name,phrase,medium
+910,423,noun,noun,medium
+911,423,pro,pronoun,medium
+912,423,table name,noun,medium
+913,423,trademark symbol,noun,medium
+914,424,server name,noun,high
+915,425,user name,noun,high
+916,425,username,noun,high
+917,425,username The name by which a user,noun,high
+918,426,long file name,phrase,high
+919,427,name at birth,phrase,high
+920,428,table name,noun,high
+921,429,defined name,noun,high
+922,430,first name,noun,high
+923,430,given name,noun,high
+924,430,female given name,phrase,medium
+925,430,male given name,phrase,medium
+926,431,female given name,phrase,high
+927,431,female given namefirst name given to women,phrase,high
+928,432,male given name,phrase,high
+929,433,surname,noun,high
+930,434,field name,noun,high
+931,435,surname,noun,high
+932,436,display name,noun,high
+933,437,family name,noun,high
+934,438,arthritis,noun,high
+935,439,noon,verb,high
+936,439,noon Ifedayo H Ayeni,verb,high
+937,440,soap,verb,high
+938,440,soap GlTrav3,verb,high
+939,441,Osogbo,noun,high
+940,445,Moon,noun,high
+941,445,moon Astronomia Terminaro,phrase,high
+942,447,camwood,noun,high
+943,448,month,noun,high
+944,449,bullet,verb,high
+945,450,no,noun,high
+946,450,noparticleWikizionario,noun,high
+947,451,Chair,noun,high
+948,453,vinegar,noun,high
+949,453,vinegar GlTrav3,noun,high
+950,454,wine,noun,high
+951,454,wine GlTrav3,noun,high
+952,456,Ouagadougou,noun,high
+953,457,owl,noun,high
+954,457,owlen,noun,high
+955,457,owlnounsv.wiktionary.org,noun,high
+956,458,money,noun,high
+957,458,Trade,noun,high
+958,459,money,noun,high
+959,459,Trade,noun,high
+960,460,cash,noun,high
+961,460,coin,noun,high
+962,460,cowrie shell,noun,high
+963,460,money,noun,high
+964,460,accounting,verb,medium
+965,460,currency symbol,noun,medium
+966,460,earn,noun,medium
+967,460,fine,noun,medium
+968,460,price,noun,medium
+969,460,salary,noun,medium
+970,460,tax,noun,medium
+971,461,tax,noun,high
+972,461,tax Owó oríti pọ̀ jùThetaxesare too much,noun,high
+973,462,salary,noun,high
+974,463,fine,noun,high
+975,463,fine TraverseGPAware,noun,high
+976,464,finance,noun,high
+977,464,finance TraverseGPAware,noun,high
+978,465,bid,noun,high
+979,466,tax,noun,high
+980,466,tax TraverseGPAware,noun,high
+981,467,tax,noun,high
+982,467,tax TraverseGPAware,noun,high
+983,468,currency,noun,high
+984,469,anvil,noun,high
+985,469,jealous,noun,high
+986,470,R-squared value,noun,high
+987,471,bee,noun,high
+988,471,beeen,noun,high
+989,471,bumblebee,noun,high
+990,471,bumblebee TraverseGPAware,noun,high
+991,471,honey,noun,high
+992,471,beehive,adjective,medium
+993,471,beeswax,noun,medium
+994,471,wild honey,noun,medium
+995,472,wild honey,noun,high
+996,473,embryo,noun,high
+997,473,embryo TraverseGPAware,noun,high
+998,473,pregnancy,noun,high
+999,473,fibroid tumour,noun,medium
+1000,473,foetus,verb,medium
+1001,474,fibroid tumour,noun,high
+1002,475,cure,noun,high
+1003,476,Sun,noun,high
+1004,476,east,noun,medium
+1005,476,planet,noun,medium
+1006,476,radiation,noun,medium
+1007,476,ultraviolet sun rays,phrase,medium
+1008,476,west,noun,medium
+1009,477,one,noun,high
+1010,477,onenumeralnl.wiktionary.org,noun,high
+1011,478,boil,noun,high
+1012,479,feed,verb,high
+1013,479,feed GlosbeResearch,verb,high
+1014,479,sandwich,noun,medium
+1015,480,dish,verb,high
+1016,480,food,noun,high
+1017,480,canned food,noun,medium
+1018,480,cuisine,noun,medium
+1019,480,dining room,noun,medium
+1020,480,dried food,noun,medium
+1021,480,food establishment,noun,medium
+1022,480,roasted food,noun,medium
+1023,480,staple food,noun,medium
+1024,481,canned food,noun,high
+1025,483,dried food,noun,high
+1026,484,meal,verb,high
+1027,485,staple food,noun,high
+1028,485,staple foodfood that,phrase,high
+1029,486,roasted food,noun,high
+1030,487,cooking,adjective,high
+1031,487,food preparation,noun,high
+1032,487,food preparationmanipulation of edible ingredients,adjective,high
+1033,488,breakfast,noun,high
+1034,489,fatty food,noun,high
+1035,490,arrow,noun,high
+1036,490,arrownounprojectileen.wiktionary2016,noun,high
+1037,491,day,noun,high
+1038,491,daylight,noun,high
+1039,491,daynounperiod of 24 hoursen.wiktionary2016,noun,high
+1040,491,daytime,noun,high
+1041,491,Friday,noun,medium
+1042,491,Monday,noun,medium
+1043,491,Thursday,noun,medium
+1044,491,Wednesday,noun,medium
+1045,492,Monday,noun,high
+1046,494,Monday,noun,high
+1047,495,Friday,noun,high
+1048,496,Wednesday,noun,high
+1049,497,Thursday,noun,high
+1050,498,Monday,noun,high
+1051,499,Wednesday,noun,high
+1052,500,brain,verb,high
+1053,500,brain Mallow82,verb,high
+1054,500,heart,noun,high
+1055,500,hearten,verb,high
+1056,500,heartnounan organen.wiktionary2016,verb,high
+1057,501,boat,noun,high
+1058,501,boatnounwater craften.wiktionary2016,noun,high
+1059,502,male,noun,high
+1060,502,man,noun,high
+1061,502,mannounadult male humanen.wiktionary2016,noun,high
+1062,503,god,noun,high
+1063,504,child,noun,high
+1064,504,daughter,noun,medium
+1065,504,key,noun,medium
+1066,504,son,noun,medium
+1067,504,young,noun,medium
+1068,505,daughter,noun,high
+1069,506,key,noun,high
+1070,507,key,noun,high
+1071,508,son,noun,high
+1072,509,son,noun,high
+1073,510,soap,noun,high
+1074,511,vinegar,noun,high
+1075,512,ale,noun,high
+1076,512,beer,noun,high
+1077,513,ale,noun,high
+1078,513,beer,noun,high
+1079,514,wine,noun,high
+1080,515,hand,noun,high
+1081,516,monthen,noun,high
+1082,516,Ramadan,noun,medium
+1083,517,Ramadan,noun,high
+1084,517,Ramadanen,noun,high
+1085,518,oceania,noun,high
+1086,519,month,noun,high
+1087,519,moon,noun,high
+1088,519,moonnounÈyí la máa fi ń sọ péoṣùṣẹ̀ṣẹ̀ lé.This,noun,high
+1089,519,April,noun,medium
+1090,519,December,noun,medium
+1091,519,February,noun,medium
+1092,519,november,noun,medium
+1093,519,salary,noun,medium
+1094,519,september,noun,medium
+1095,520,month,noun,high
+1096,520,moon,noun,high
+1097,520,moonnounÈyí la máa fi ń sọ péoṣùṣẹ̀ṣẹ̀ lé.This,noun,high
+1098,520,April,noun,medium
+1099,520,December,noun,medium
+1100,520,February,noun,medium
+1101,520,november,noun,medium
+1102,520,salary,noun,medium
+1103,520,september,noun,medium
+1104,521,July,noun,high
+1105,522,july,noun,high
+1106,523,February,noun,high
+1107,524,february,noun,high
+1108,525,december,noun,high
+1109,526,may,noun,high
+1110,527,January,noun,high
+1111,528,june,noun,high
+1112,529,august,noun,high
+1113,530,april,noun,high
+1114,531,march,verb,high
+1115,532,september,noun,high
+1116,533,october,noun,high
+1117,534,november,noun,high
+1118,535,Ramadan,noun,high
+1119,536,April,noun,high
+1120,537,June,noun,high
+1121,538,December,noun,high
+1122,541,have not been,phrase,high
+1123,542,has not,noun,high
+1124,542,have not,noun,high
+1125,543,knife,noun,high
+1126,543,knife GlosbeResearch,noun,high
+1127,544,duiker,noun,high
+1128,545,oar,noun,high
+1129,546,dolphin,noun,high
+1130,547,net,noun,high
+1131,547,net GlosbeResearch,noun,high
+1132,548,circle,verb,high
+1133,548,circle nounsimple curve of Euclidean geometry,verb,high
+1134,549,parent,noun,high
+1135,549,parents,noun,high
+1136,549,parent and child,phrase,medium
+1137,549,Parental Controls,verb,medium
+1138,550,parent and child,phrase,high
+1139,551,vagina,noun,high
+1140,551,vagina TraverseGPAware,noun,high
+1141,552,outside,adjective,high
+1142,552,outside adposition,adjective,high
+1143,552,tax,noun,medium
+1144,553,reality,noun,high
+1145,553,sincerity,noun,high
+1146,553,truth,noun,high
+1147,553,yellow,noun,medium
+1148,554,reality,noun,high
+1149,554,sincerity,noun,high
+1150,554,truth,noun,high
+1151,554,yellow,noun,medium
+1152,555,inverse,adjective,high
+1153,555,inverse nounopposite of something,adjective,high
+1154,556,Balance,noun,high
+1155,557,bloom,verb,high
+1156,557,blossom,verb,high
+1157,557,cotton,noun,high
+1158,557,cotton Glosbe Research,verb,high
+1159,557,carnation,noun,medium
+1160,557,petal,adjective,medium
+1161,557,rose,noun,medium
+1162,557,tulip,noun,medium
+1163,557,vase,noun,medium
+1164,558,rose,noun,high
+1165,558,rose TraverseGPAware,noun,high
+1166,559,green,adjective,high
+1167,560,cauldron,noun,high
+1168,560,large pot,noun,high
+1169,561,commandment,noun,high
+1170,561,law,noun,high
+1171,561,legislation,noun,high
+1172,561,document type definition,phrase,medium
+1173,561,law of holes,phrase,medium
+1174,561,rule,noun,medium
+1175,561,Rules Manager,noun,medium
+1176,561,scientific law,noun,medium
+1177,561,ten commandments,verb,medium
+1178,561,validation rule,noun,medium
+1179,561,validity,noun,medium
+1180,562,commandment,noun,high
+1181,562,law,noun,high
+1182,562,legislation,noun,high
+1183,562,document type definition,phrase,medium
+1184,562,law of holes,phrase,medium
+1185,562,rule,noun,medium
+1186,562,Rules Manager,noun,medium
+1187,562,scientific law,noun,medium
+1188,562,ten commandments,verb,medium
+1189,562,validation rule,noun,medium
+1190,562,validity,noun,medium
+1191,563,law of holes,phrase,high
+1192,563,law of holesadage,phrase,high
+1193,564,ten commandments,verb,high
+1194,565,scientific law,noun,high
+1195,566,rule,verb,high
+1196,567,validation rule,noun,high
+1197,567,validation ruleA,noun,high
+1198,568,document type definition,phrase,high
+1199,569,vanity,noun,high
+1200,569,vanity TraverseGPAware,noun,high
+1201,569,zero,noun,high
+1202,569,zero TraverseGPAware,noun,high
+1203,570,empty,adjective,high
+1204,570,empty TraverseGPAware,adjective,high
+1205,571,outer space,noun,high
+1206,571,outer spacenounvoid between celestial bodies,noun,high
+1207,571,sky,verb,high
+1208,571,sky GlTrav3,noun,high
+1209,571,airplane,noun,medium
+1210,571,human spaceflight,noun,medium
+1211,571,space observatory,noun,medium
+1212,571,space shuttle,noun,medium
+1213,572,outer space,noun,high
+1214,572,outer spacenounvoid between celestial bodies,noun,high
+1215,572,sky,verb,high
+1216,572,sky GlTrav3,noun,high
+1217,572,airplane,noun,medium
+1218,572,human spaceflight,noun,medium
+1219,572,space observatory,noun,medium
+1220,572,space shuttle,noun,medium
+1221,573,damage,noun,high
+1222,573,damage TraverseGPAware,noun,high
+1223,573,want,noun,high
+1224,573,want TraverseGPAware,noun,high
+1225,574,squirrel,verb,high
+1226,574,squirrel Stephen Ogunbiyi,verb,high
+1227,575,air,noun,high
+1228,576,nap,noun,high
+1229,576,nap TraverseGPAware,noun,high
+1230,577,veteran,noun,high
+1231,577,veteran TraverseGPAware,noun,high
+1232,578,expert,adjective,high
+1233,579,Werehyena,noun,high
+1234,580,embodiment,noun,high
+1235,580,personification,noun,high
+1236,580,personificationnounÒgidi àpẹẹrẹìfẹ́ nìyíThis,noun,high
+1237,581,fence,noun,high
+1238,581,wall,noun,high
+1239,581,walls,verb,high
+1240,582,Common Ostrich,noun,high
+1241,582,ostrich,noun,high
+1242,582,ostrichnounspecies of large flightless birds,phrase,high
+1243,583,Common Ostrich,noun,high
+1244,583,ostrich,noun,high
+1245,583,ostrichnounspecies of large flightless birds,phrase,high
+1246,584,peak,verb,high
+1247,585,peak,verb,high
+1248,586,goat meat,noun,high
+1249,587,Ogun,noun,high
+1250,588,le,adjective,high
+1251,589,reflection,noun,high
+1252,589,shade,noun,high
+1253,589,shadow,noun,high
+1254,589,drop shadow,noun,medium
+1255,590,drop shadow,noun,high
+1256,591,cloud,noun,high
+1257,591,rain,verb,high
+1258,591,rainen,noun,high
+1259,591,acid rain,noun,medium
+1260,591,hail,noun,medium
+1261,591,it is raining,phrase,medium
+1262,591,rainy,noun,medium
+1263,592,cloud,noun,high
+1264,592,rain,noun,high
+1265,592,rainen,noun,high
+1266,592,acid rain,noun,medium
+1267,592,hail,noun,medium
+1268,592,it is raining,phrase,medium
+1269,592,rainy,noun,medium
+1270,593,hail,noun,high
+1271,593,hail TraverseGPAware,noun,high
+1272,594,acid rain,noun,high
+1273,594,acid rainnounrain that,noun,high
+1274,595,it is raining,phrase,high
+1275,596,Ojo,noun,high
+1276,596,Ojoborabi,noun,high
+1277,597,ocean,noun,high
+1278,597,sea,noun,high
+1279,597,arctic ocean,noun,medium
+1280,597,bay,noun,medium
+1281,597,indian ocean,noun,medium
+1282,597,marine biologist,noun,medium
+1283,597,oil tanker ship,phrase,medium
+1284,597,seaweed,verb,medium
+1285,598,ocean,noun,high
+1286,598,sea,noun,high
+1287,598,arctic ocean,noun,medium
+1288,598,bay,noun,medium
+1289,598,indian ocean,noun,medium
+1290,598,marine biologist,noun,medium
+1291,598,oil tanker ship,phrase,medium
+1292,598,seaweed,verb,medium
+1293,599,atlantic ocean,noun,high
+1294,600,black sea,noun,high
+1295,601,mediterranean sea,noun,high
+1296,602,ocean,noun,high
+1297,602,ocean TraverseGPAware,noun,high
+1298,603,sea,noun,high
+1299,603,sea Swadesh Lists,noun,high
+1300,605,Pacific,noun,high
+1301,605,Pacific Ocean,noun,high
+1302,606,arctic ocean,noun,high
+1303,607,indian ocean,noun,high
+1304,608,highest point,noun,high
+1305,609,deepest point,noun,high
+1306,609,deepest pointpoint,noun,high
+1307,610,hill,verb,high
+1308,610,mountain,verb,high
+1309,610,up,adjective,high
+1310,610,up adpositionrelative direction,verb,high
+1311,610,aso oke,noun,medium
+1312,610,ceiling,verb,medium
+1313,610,cliff,noun,medium
+1314,610,foreground color,noun,medium
+1315,610,north,noun,medium
+1316,610,supernatural being,verb,medium
+1317,611,mountain,noun,high
+1318,611,range,noun,high
+1319,611,range TraverseGPAware,noun,high
+1320,612,floor,noun,high
+1321,612,storey,noun,high
+1322,612,story,noun,high
+1323,612,story TraverseGPAware,noun,high
+1324,613,hill,noun,high
+1325,614,P2 header,noun,medium
+1326,614,page header,noun,medium
+1327,615,up and down,adjective,high
+1328,615,up and down adverbrelative directions,adjective,high
+1329,616,ceiling,noun,high
+1330,616,ceiling GlosbeResearch,noun,high
+1331,617,ceiling,noun,high
+1332,617,ceiling TraverseGPAware,noun,high
+1333,618,mountain,noun,high
+1334,619,morsel,noun,high
+1335,619,swallow,noun,high
+1336,619,swallownouncategory of Nigerian food,noun,high
+1337,620,cartilage,noun,high
+1338,620,cartilage TraverseGPAware,noun,high
+1339,621,fame,noun,high
+1340,621,publicity,noun,high
+1341,622,hill,verb,high
+1342,622,cliff,noun,medium
+1343,622,haystack,noun,medium
+1344,623,haystack,noun,high
+1345,623,haystack GlosbeResearch,noun,high
+1346,624,stone,noun,high
+1347,624,stonenounneuterGlTrav3,noun,high
+1348,624,triplet,noun,medium
+1349,625,world economy,noun,high
+1350,626,darkness,noun,high
+1351,626,night,interjection,high
+1352,626,night Glosbe Research,noun,high
+1353,626,obscurity,noun,high
+1354,628,corpse,noun,high
+1355,629,carcass,noun,high
+1356,629,carcass GlosbeResearch,noun,high
+1357,630,June,noun,high
+1358,631,pebble,noun,high
+1359,631,rock,noun,high
+1360,631,stone,noun,high
+1361,631,Abeokuta,noun,medium
+1362,631,cliff,noun,medium
+1363,631,gravestone,noun,medium
+1364,631,marble,noun,medium
+1365,631,sapphire,noun,medium
+1366,632,marble,noun,high
+1367,632,marble TraverseGPAware,noun,high
+1368,633,gem,noun,high
+1369,633,jewel,noun,high
+1370,633,jewel TraverseGPAware,noun,high
+1371,633,pearl,noun,high
+1372,634,gravestone,noun,high
+1373,634,gravestone TraverseGPAware,noun,high
+1374,635,sapphire,noun,high
+1375,635,sapphire TraverseGPAware,noun,high
+1376,636,hammer,noun,high
+1377,636,hammernountoolen.wiktionary2016,noun,high
+1378,637,autonomy,noun,high
+1379,637,autonomy GlosbeResearch,noun,high
+1380,637,freedom,noun,high
+1381,637,independence,noun,high
+1382,637,liberty,noun,high
+1383,637,freeform,noun,medium
+1384,638,freedom,noun,high
+1385,638,liberty,noun,high
+1386,639,giant,noun,high
+1387,640,another,pronoun,high
+1388,641,another,pronoun,high
+1389,642,stupidity,noun,high
+1390,642,stupiditynounstate of lacking intelligence,noun,high
+1391,643,time stamp,noun,high
+1392,644,Today,noun,high
+1393,645,today,noun,high
+1394,646,terrorist,adjective,high
+1395,646,terrorist Isokan Omo'Odua,adjective,high
+1396,647,completion,noun,high
+1397,647,end,noun,high
+1398,647,fate,noun,high
+1399,647,fate TraverseGPAware,noun,high
+1400,647,at the end of the year,phrase,medium
+1401,647,end of existence,phrase,medium
+1402,647,goal,adjective,medium
+1403,647,page break,noun,medium
+1404,647,page break preview,phrase,medium
+1405,648,page break,noun,high
+1406,648,page break preview,phrase,medium
+1407,649,goal,noun,high
+1408,649,goal TraverseGPAware,noun,high
+1409,650,end of existence,phrase,high
+1410,651,stick,adjective,high
+1411,651,yard,verb,high
+1412,651,yard noununit of length,adjective,high
+1413,652,historian,noun,high
+1414,653,frog,noun,high
+1415,653,frog GlosbeResearch,noun,high
+1416,654,axis,noun,high
+1417,654,dimension,noun,high
+1418,654,category axis,verb,medium
+1419,654,dimension level,noun,medium
+1420,654,sidebar,noun,medium
+1421,654,site,noun,medium
+1422,654,subsite,noun,medium
+1423,654,Web site,noun,medium
+1424,654,x-axis,verb,medium
+1425,655,category axis,verb,high
+1426,656,x-axis,noun,high
+1427,657,sidebar,noun,high
+1428,658,vein,noun,high
+1429,659,channel,noun,high
+1430,659,duct,noun,high
+1431,659,duct GlosbeResearch,noun,high
+1432,659,passage,noun,high
+1433,659,passage GlosbeResearch,noun,high
+1434,659,tract,noun,high
+1435,659,tract GlTrav3,noun,high
+1436,660,highway,noun,high
+1437,660,motorway,noun,high
+1438,660,street,adjective,high
+1439,661,highway,noun,high
+1440,661,motorway,noun,high
+1441,662,African mango,noun,high
+1442,662,orange,adjective,high
+1443,662,orange GlosbeResearch,verb,high
+1444,662,apple,noun,medium
+1445,663,African green pigeon,noun,high
+1446,663,African green pigeon Treron calvus,noun,high
+1447,663,Green fruit pigeon,noun,high
+1448,663,Green fruit pigeon Treron calvus,noun,high
+1449,664,grapefruit,noun,high
+1450,664,grapefruit TraverseGPAware,noun,high
+1451,665,night,noun,high
+1452,665,midnight,noun,medium
+1453,665,past midnight,noun,medium
+1454,666,deity,noun,high
+1455,666,orishaen,noun,high
+1456,667,deity,noun,high
+1457,667,orishaen,noun,high
+1458,668,chapter,verb,high
+1459,668,shea butter,verb,high
+1460,669,word,verb,high
+1461,670,oil,verb,high
+1462,671,ring,noun,high
+1463,671,ring finger,noun,medium
+1464,672,roof,verb,high
+1465,672,rooftop,noun,high
+1466,673,roof,noun,high
+1467,673,rooftop,noun,high
+1468,674,sun,noun,high
+1469,674,solar system,noun,medium
+1470,674,western europe,noun,medium
+1471,675,left,adjective,high
+1472,675,left and right,phrase,medium
+1473,675,left angle bracket,phrase,medium
+1474,675,left arrow,noun,medium
+1475,675,left bracket,noun,medium
+1476,675,left mouse button,phrase,medium
+1477,675,left square bracket,phrase,medium
+1478,675,left-to-right,noun,medium
+1479,675,opening chevron,noun,medium
+1480,676,left and right,adverb,high
+1481,676,left and rightadverbrelative direction,adverb,high
+1482,677,left-to-right,noun,high
+1483,678,Moon,noun,high
+1484,678,moon HeiNER - the,phrase,high
+1485,679,moon,noun,high
+1486,679,moon HeiNER - the,phrase,high
+1487,680,hiccup,noun,high
+1488,680,asthma,noun,medium
+1489,681,hiccup,noun,high
+1490,681,hiccup TraverseGPAware,noun,high
+1491,682,constraint,noun,high
+1492,683,climax,verb,high
+1493,684,truth,noun,high
+1494,684,truth GlTrav3,noun,high
+1495,685,true,noun,high
+1496,686,African waterbuck,noun,high
+1497,686,waterbuck,noun,high
+1498,687,poor,adjective,high
+1499,688,damp,adjective,high
+1500,688,influenza,noun,medium
+1501,688,winter,noun,medium
+1502,689,and,conjunction,high
+1503,689,he,pronoun,high
+1504,689,her,pronoun,high
+1505,690,pro,noun,high
+1506,691,Owl,noun,high
+1507,692,owl,noun,high
+1508,693,business,noun,high
+1509,693,enterprise,verb,high
+1510,693,trade,verb,high
+1511,693,business enterprise,noun,medium
+1512,693,type of business entity,phrase,medium
+1513,694,cotton,adjective,high
+1514,694,wool,adjective,high
+1515,694,cobweb,noun,medium
+1516,694,white as a bundle of cotton wool,phrase,medium
+1517,695,cobweb,noun,high
+1518,696,5am - 10am,phrase,high
+1519,696,morning,verb,high
+1520,697,knowledge,noun,high
+1521,697,timeline,noun,medium
+1522,697,understanding,verb,medium
+1523,698,timeline,noun,high
+1524,699,gas,adjective,high
+1525,699,gas Stephen Ogunbiyi,adjective,high
+1526,699,ozone layer,noun,medium
+1527,700,attraction,noun,high
+1528,700,gravity,noun,high
+1529,701,hammer,noun,high
+1530,702,Sun,noun,high
+1531,702,The Sun,noun,high
+1532,702,beam,noun,medium
+1533,702,solar eclipse,noun,medium
+1534,702,Solar System,noun,medium
+1535,703,porcupine,noun,high
+1536,704,comb,verb,high
+1537,705,yes,noun,high
+1538,706,perspiration,noun,high
+1539,706,sweat,noun,high
+1540,707,moth,verb,high
+1541,707,moth Remile Talleyrand,verb,high
+1542,708,smell,noun,high
+1543,708,incense,noun,medium
+1544,709,fragrance,noun,high
+1545,709,perfume,noun,high
+1546,709,scent,noun,high
+1547,710,incense,noun,high
+1548,710,incense TraverseGPAware,noun,high
+1549,711,it is true,phrase,high
+1550,712,antecedent,adjective,high
+1551,712,antecedent nounconcept in logic,adjective,high
+1552,712,causality,noun,high
+1553,712,cause,verb,high
+1554,712,cause of death,phrase,medium
+1555,713,cause of death,noun,high
+1556,713,cause of deathnounconditions resulting in a death,noun,high
+1557,714,thirst,noun,high
+1558,714,thirstnounÒùngbẹń gbẹ míI am thirsty,noun,high
+1559,715,set of numbers,phrase,high
+1560,716,spammer,noun,high
+1561,717,Mini Translator,noun,high
+1562,718,mail recipient,noun,high
+1563,719,card reader,noun,high
+1564,720,fingerprint reader,noun,high
+1565,721,author,noun,high
+1566,721,writer,noun,high
+1567,722,word breaker,noun,high
+1568,723,subscript,noun,high
+1569,724,superscript,noun,high
+1570,724,superscript One character  that,noun,high
+1571,725,Date Navigator,noun,high
+1572,726,frog,noun,high
+1573,727,day,noun,high
+1574,727,daylight,noun,high
+1575,727,daynounperiod of 24 hoursen.wiktionary2016,noun,high
+1576,727,daytime,noun,high
+1577,728,television actor,noun,high
+1578,728,television actoractor who performs on television,phrase,high
+1579,729,film actor,noun,high
+1580,729,film actoractor who appears in films or movies,phrase,high
+1581,730,politics,noun,high
+1582,730,political history,noun,medium
+1583,730,political power,noun,medium
+1584,730,political science,noun,medium
+1585,730,representative democracy,noun,medium
+1586,730,social democracy,noun,medium
+1587,731,social democracy,noun,high
+1588,731,social democracynounpolitical ideology,noun,high
+1589,732,representative democracy,noun,high
+1590,734,democracy,noun,high
+1591,735,actor,noun,high
+1592,735,artist,noun,high
+1593,735,performer,noun,high
+1594,735,performer GlosbeResearch,noun,high
+1595,735,player,noun,high
+1596,735,player GlosbeResearch,noun,high
+1597,736,hiss,noun,high
+1598,736,kmt,noun,high
+1599,736,kmtnounkiss my teeth,noun,high
+1600,737,carrying p,noun,high
+1601,737,kata,noun,high
+1602,738,rainbow,noun,high
+1603,739,dots per inch,noun,high
+1604,740,moon,noun,high
+1605,741,scale,noun,high
+1606,741,sizing handle,noun,medium
+1607,742,laboratorist,noun,high
+1608,743,he,pronoun,high
+1609,743,him,pronoun,high
+1610,743,it,pronoun,high
+1611,743,she,pronoun,high
+1612,744,and Open,noun,high
+1613,744,Authentic,adjective,high
+1614,744,"Authentic, Energetic, Reflective, and Open",phrase,high
+1615,744,Energetic,adjective,high
+1616,744,Reflective,adjective,high
+1617,745,well done,adjective,high
+1618,746,Cat,noun,high
+1619,747,last supper,noun,high
+1620,748,street,noun,high
+1621,748,street GlTrav3,noun,high
+1622,749,friend,noun,high
+1623,749,friend GlosbeResearch,noun,high
+1624,750,chief,adjective,high
+1625,750,chief GlosbeResearch,adjective,high
+1626,751,More,noun,high
+1627,752,ability,noun,high
+1628,752,ability TraverseGPAware,noun,high
+1629,753,lane,noun,high
+1630,753,street,noun,high
+1631,754,firmament,noun,high
+1632,754,sky,noun,high
+1633,755,word,noun,high
+1634,755,wordnoununit of languageen.wiktionary2016,noun,high
+1635,756,injury,noun,high
+1636,756,wound,noun,high
+1637,757,milt,noun,high
+1638,757,spleen,noun,high
+1639,758,muscle,noun,high
+1640,759,hello brother,noun,high

@@ -1,0 +1,146 @@
+id,word_id,translation,part_of_speech,confidence
+1,2,radium,noun,high
+2,2,radiumnounelement with the atomic number of 88,noun,high
+3,6,racket,noun,high
+4,6,racquet,noun,high
+5,7,Ralph Ellison HeiNER - the,noun,high
+6,8,reggaenounmusic genre from Jamaica,noun,high
+7,9,reggaenounmusic genre from Jamaica,noun,high
+8,13,await,verb,high
+9,13,wait,verb,high
+10,14,beautiful,adjective,high
+11,14,beautiful GlosbeResearch,adjective,high
+12,15,rheniumnounelement with the atomic number of 75,noun,high
+13,16,rheniumnounelement with the atomic number of 75,noun,high
+14,19,Wednesday,noun,high
+15,21,Richard Wright HeiNER - the,noun,high
+16,22,verify,verb,high
+17,22,verify To confirm either that a result,verb,high
+18,23,rielnouncurrency of Cambodia,noun,high
+19,25,juicy,adjective,high
+20,25,juicy TraverseGPAware,adjective,high
+21,25,wet,adjective,high
+22,25,eight hundred,verb,medium
+23,25,four,noun,medium
+24,25,four o'clock,noun,medium
+25,25,half past four,phrase,medium
+26,25,qu,noun,medium
+27,25,seventy,noun,medium
+28,25,Wednesday,noun,medium
+29,26,watery,adjective,high
+30,26,watery TraverseGPAware,adjective,high
+31,29,engine,noun,high
+32,29,engine GlosbeResearch,noun,high
+33,29,machine,noun,high
+34,29,machine GlosbeResearch,noun,high
+35,30,ro town,noun,high
+36,34,rome,noun,high
+37,35,romania,noun,high
+38,36,Ronald Reagan HeiNER - the,noun,high
+39,37,fierce,adjective,high
+40,37,fierce TraverseGPAware,adjective,high
+41,38,acne,noun,high
+42,38,pimples,noun,high
+43,45,Rwandese Republic,adjective,high
+44,46,acquire,verb,high
+45,46,buy,verb,high
+46,46,buy Mo fẹ́ràìwé.I want tobuya book.TraverseGPAware,verb,high
+47,46,purchase,verb,high
+48,46,take,verb,high
+49,47,ram,noun,high
+50,47,ram TraverseGPAware,noun,high
+51,48,camel,noun,high
+52,48,dromedary,noun,high
+53,49,camel,noun,high
+54,50,Camel,noun,high
+55,51,camel,noun,high
+56,51,camel TraverseGPAware,noun,high
+57,52,camel,noun,high
+58,53,hover,verb,high
+59,54,banish,verb,high
+60,54,banish TraverseGPAware,verb,high
+61,55,sew,verb,high
+62,56,remember,verb,high
+63,57,recall,verb,high
+64,57,recall TraverseGPAware,verb,high
+65,58,no,adverb,high
+66,58,not at all,adverb,high
+67,59,bit rate,noun,high
+68,60,radio,noun,high
+69,60,radio button,noun,medium
+70,60,radio frequency identification sensor,phrase,medium
+71,61,overflow,noun,high
+72,62,eliminate,verb,high
+73,62,eliminate TraverseGPAware,verb,high
+74,63,baud rate,noun,high
+75,64,aspect ratio,noun,high
+76,65,drown,verb,high
+77,66,baptize,verb,high
+78,66,baptize TraverseGPAware,verb,high
+79,67,wander,verb,high
+80,68,never,adverb,high
+81,68,observe,adverb,high
+82,68,perceive,verb,high
+83,68,see,verb,high
+84,69,earn,verb,high
+85,69,obtain,verb,high
+86,69,obtain TraverseGPAware,verb,high
+87,69,take,verb,high
+88,70,see,verb,high
+89,70,see TraverseGPAware,verb,high
+90,71,additional,adjective,high
+91,71,additional TraverseGPAware,adjective,high
+92,72,decay,noun,high
+93,72,decay TraverseGPAware,noun,high
+94,72,purchasing,noun,high
+95,73,radiation,noun,high
+96,73,radiation TraverseGPAware,noun,high
+97,74,gait,verb,high
+98,75,ache,verb,high
+99,75,filthy,adjective,high
+100,75,filthy Glosbe Research,verb,high
+101,75,object,noun,medium
+102,76,beautiful,adjective,high
+103,76,beautiful Orílẹ̀-èdèrírẹwàniIt's abeautifulcountry,adjective,high
+104,76,handsome,adjective,high
+105,76,pretty,adjective,high
+106,76,pretty ObìnrinrírẹwànìyẹnThat's aprettywoman,adjective,high
+107,77,imagine,verb,high
+108,77,imagine TraverseGPAware,verb,high
+109,78,add,verb,high
+110,79,think,verb,high
+111,79,think TraverseGPAware,verb,high
+112,80,round,adjective,high
+113,80,roundadjectiveÒkútaróbótófunfun.Whiteroundstone,adjective,high
+114,81,ancient rome,noun,high
+115,82,fear,adjective,high
+116,83,rwanda,noun,high
+117,84,Rwanda,noun,high
+118,85,emerge,verb,high
+119,86,vertical ruler,noun,high
+120,87,chew,verb,high
+121,87,chew Rúnewélẹ́nuChewthe leaf,verb,high
+122,88,passionate,adjective,high
+123,88,passionate TraverseGPAware,adjective,high
+124,89,yellow,adjective,high
+125,90,demote,verb,high
+126,90,dim,verb,high
+127,90,fade,verb,high
+128,90,fade TraverseGPAware,verb,high
+129,91,syphilis,noun,high
+130,92,record,verb,high
+131,92,active field,noun,medium
+132,92,calculated field,noun,medium
+133,92,field data type,phrase,medium
+134,92,hyperlink field,noun,medium
+135,92,key,noun,medium
+136,92,query field,noun,medium
+137,93,blur,verb,high
+138,94,go into labour,phrase,high
+139,95,polio,noun,high
+140,96,polio,noun,high
+141,96,polio vaccine,noun,medium
+142,97,russia,noun,high
+143,98,Russia,noun,high
+144,99,Russia,noun,high
+145,99,Russian,noun,medium

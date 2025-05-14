@@ -1,0 +1,203 @@
+id,word_id,translation,part_of_speech,confidence
+1,4,Saint Vincent and the Grenadines,phrase,high
+2,7,san marino,noun,high
+3,8,sandwich,noun,high
+4,9,pay,verb,high
+5,9,pay TraverseGPAware,verb,high
+6,10,Sani AbachaHeiNER - the,phrase,high
+7,11,fat,adjective,high
+8,11,plump,adjective,high
+9,11,plump GlosbeResearch,adjective,high
+10,12,pay,verb,high
+11,12,payverbpay money,verb,high
+12,12,pay taxes,verb,medium
+13,13,pay taxes,noun,high
+14,14,São Tomé and Príncipe,phrase,high
+15,16,scandiumnounelement with the atomic number of 21,noun,high
+16,17,scandiumnounelement with the atomic number of 21,noun,high
+17,18,do,verb,high
+18,27,Shehu ShagariHeiNER - the,phrase,high
+19,30,Sikiru Ayinde BarristerHeiNER - the,phrase,high
+20,32,silicon,noun,high
+21,34,bury,verb,high
+22,37,M Ifedayo H Ayeni,phrase,high
+23,37,Mad,noun,high
+24,38,sierra leone,noun,high
+25,39,Sierra Leone,noun,high
+26,43,scotland,noun,high
+27,44,slovakia,noun,high
+28,45,slovenia,noun,high
+29,47,bind,verb,high
+30,47,fasten,verb,high
+31,47,fasten TraverseGPAware,verb,high
+32,47,tether,verb,high
+33,47,tether GlTrav3,verb,high
+34,47,tie,verb,high
+35,48,attach,verb,high
+36,49,bind,verb,high
+37,49,join,verb,high
+38,49,join TraverseGPAware,verb,high
+39,51,sodium,noun,high
+40,51,sodiumnounelement with the atomic number of 11,noun,high
+41,54,Sokoto State,noun,medium
+42,60,sphaleritenounsulfide mineral,noun,high
+43,61,spain,noun,high
+44,62,spectroscopy,noun,high
+45,62,spectroscopynounanalytical method,noun,high
+46,64,Steve BikoHeiNER - the,phrase,high
+47,74,sulfur nounelement with the atomic number of 16,adjective,high
+48,74,sulphur,noun,high
+49,75,sulfur nounelement with the atomic number of 16,adjective,high
+50,75,sulphur,noun,high
+51,76,cry,verb,high
+52,76,cry Másunkúnmọ́.Don'tcryanymore,verb,high
+53,77,Swaziland,noun,high
+54,78,swaziland,noun,high
+55,80,sweden,noun,high
+56,81,switzerland,noun,high
+57,83,Syrian Arab Republic,phrase,high
+58,84,external data range,phrase,high
+59,85,scope,noun,high
+60,85,search scope,noun,medium
+61,86,search scope,noun,high
+62,87,tag,verb,high
+63,88,History of Africa,phrase,high
+64,88,History of AfricaHeiNER-the-,phrase,high
+65,88,Shango,noun,high
+66,89,era,noun,high
+67,90,grave,noun,high
+68,91,zambia,noun,high
+69,92,crack,verb,high
+70,92,crackverbÓ tisánIt'scracked,verb,high
+71,92,all nine,noun,medium
+72,92,one thousand eight hundred,phrase,medium
+73,92,one thousand seven hundred,phrase,medium
+74,92,september,noun,medium
+75,92,twenty past one in the afternoon,phrase,medium
+76,93,hurry,verb,high
+77,93,race,verb,high
+78,93,run,verb,high
+79,93,fast forward,noun,medium
+80,93,rewind,noun,medium
+81,94,fast forward,verb,high
+82,95,rewind,verb,high
+83,96,devil,verb,high
+84,97,Saturn,noun,high
+85,98,saturn,noun,high
+86,99,science,noun,high
+87,99,sciencenounstudy and knowledge,noun,high
+88,99,earth sciences,verb,medium
+89,99,food science,noun,medium
+90,99,history of science,phrase,medium
+91,99,natural science,noun,medium
+92,99,scientific law,noun,medium
+93,99,scientist,noun,medium
+94,99,social science,noun,medium
+95,100,natural science,noun,high
+96,101,food science,noun,high
+97,102,literary science,noun,high
+98,102,literary sciencescientific study of the literature,phrase,high
+99,103,earth sciences,noun,high
+100,104,social science,noun,high
+101,105,basic science,noun,high
+102,106,political science,noun,high
+103,107,psychology,noun,high
+104,108,period,noun,high
+105,108,phase,noun,high
+106,108,semester,noun,high
+107,108,semester GlTrav3,noun,high
+108,108,multi session-capable disc,phrase,medium
+109,108,single session-only disc,phrase,medium
+110,109,live session,noun,high
+111,109,Live Sharing Session,phrase,high
+112,110,wild silk,noun,high
+113,111,bake,verb,high
+114,111,bake TraverseGPAware,verb,high
+115,112,block,verb,high
+116,113,serbia,noun,high
+117,114,scab,verb,high
+118,115,and,conjunction,high
+119,116,zimbabwe,noun,high
+120,117,be,verb,high
+121,117,be alive,adjective,high
+122,117,exist,verb,high
+123,117,to,adverb,high
+124,117,to adposition,verb,high
+125,118,skirt,verb,high
+126,119,sneeze,verb,high
+127,120,syntax,noun,high
+128,120,syntax error,noun,medium
+129,121,Spain,noun,high
+130,121,Spanish,noun,medium
+131,122,Contextual Spelling,verb,high
+132,123,syria,noun,high
+133,124,payable,adjective,high
+134,124,payable TraverseGPAware,adjective,high
+135,125,pairing,noun,high
+136,126,metric system,noun,high
+137,126,metric systemnoundecimal system of measurement,noun,high
+138,127,operating system,noun,high
+139,128,operating system,noun,high
+140,129,solar system,noun,high
+141,130,geographic coordinate system,phrase,high
+142,130,geographic coordinate systemcoordinate system,phrase,high
+143,131,flaw,noun,high
+144,131,flaw TraverseGPAware,noun,high
+145,132,adjourn,verb,high
+146,132,adjourn TraverseGPAware,verb,high
+147,133,web filtering,verb,high
+148,134,starch,adjective,high
+149,135,base style,noun,high
+150,136,theater,noun,high
+151,136,musical theater,noun,medium
+152,137,musical theater,noun,high
+153,138,activity,noun,high
+154,139,guinea worm,noun,high
+155,140,dracunculiasis,noun,high
+156,140,dracunculiasis Human helminthiasis,noun,high
+157,141,somalia,noun,high
+158,142,on,adjective,high
+159,142,An act of memorising,phrase,medium
+160,142,overlap,noun,medium
+161,143,patience,noun,high
+162,143,patient,noun,medium
+163,144,embarrass,verb,high
+164,144,embarrass TraverseGPAware,verb,high
+165,145,whistle,verb,high
+166,145,pop music,adjective,medium
+167,146,nudge,verb,high
+168,146,Always Move gallery,phrase,medium
+169,146,People Near Me,phrase,medium
+170,146,right align,noun,medium
+171,147,constrict,verb,high
+172,147,contract,verb,high
+173,147,shrink,verb,high
+174,148,right align,noun,high
+175,149,shrink,verb,high
+176,150,traffic,noun,high
+177,151,traffic jam,noun,high
+178,151,traffic jam Stephen Ogunbiyi,noun,high
+179,152,user profile,noun,high
+180,153,ear,noun,high
+181,154,young,noun,high
+182,155,young,noun,high
+183,156,ale,noun,high
+184,156,beer,noun,high
+185,157,spoon,noun,high
+186,157,spoonnounnl.wiktionary.org,noun,high
+187,158,young,noun,high
+188,159,black,adjective,high
+189,160,compose,verb,high
+190,161,Senegal,adjective,high
+191,162,senegal,adjective,high
+192,163,Tell,verb,high
+193,164,activate,verb,high
+194,165,unshare,verb,high
+195,166,cross,verb,high
+196,167,streamline,verb,high
+197,168,refresh,verb,high
+198,169,talk,verb,high
+199,169,talk Mò ńsọ̀rọ̀.I'mspeaking,verb,high
+200,170,check,verb,high
+201,170,cheque,verb,high
+202,171,sausage,noun,high

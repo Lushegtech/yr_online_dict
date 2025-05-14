@@ -1,0 +1,167 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,China,noun,high
+2,2,pit latrine,noun,high
+3,2,pit latrinehole in the ground for human waste,phrase,high
+4,3,hit,noun,high
+5,4,advocate,verb,high
+6,5,celebrate,verb,high
+7,5,commemorate,verb,high
+8,6,customize,verb,high
+9,7,defragmentation,noun,high
+10,8,scale,verb,high
+11,9,normalize,verb,high
+12,10,finish,verb,high
+13,10,finish Mo tiṣe tánI havefinished,verb,high
+14,11,Pixelate,noun,high
+15,12,loop,verb,high
+16,13,diarrhea,noun,high
+17,13,diarrhea Human disease,noun,high
+18,14,chocolate,adjective,high
+19,15,cause,verb,high
+20,16,display,verb,high
+21,16,show,verb,high
+22,16,show To display an object.MicrosoftLanguagePortal,verb,high
+23,16,Appear offline,noun,medium
+24,17,Appear offline,noun,high
+25,18,update,verb,high
+26,19,update,verb,high
+27,19,updated,verb,medium
+28,20,launch,verb,high
+29,21,save,verb,high
+30,21,store,verb,high
+31,22,replace,verb,high
+32,23,overlap,verb,high
+33,24,export,verb,high
+34,25,install,verb,high
+35,26,uninstall,verb,high
+36,27,transfer,verb,high
+37,28,import,verb,high
+38,29,highlight,verb,high
+39,30,compile,verb,high
+40,30,compose,verb,high
+41,30,build,noun,medium
+42,31,build,verb,high
+43,32,combine,verb,high
+44,33,manage,verb,high
+45,34,label,verb,high
+46,35,track,verb,high
+47,36,synchronize,verb,high
+48,37,zoom in,verb,high
+49,38,deploy,verb,high
+50,38,deploy To put into use.MicrosoftLanguagePortal,verb,high
+51,39,flow,verb,high
+52,39,flow Omi ńṣànWater isflowing,verb,high
+53,40,Shango,noun,high
+54,41,describe,verb,high
+55,42,confirm,verb,high
+56,43,pair,verb,high
+57,44,configure,verb,high
+58,44,pack,verb,high
+59,45,restart,verb,high
+60,46,reconstruct,verb,high
+61,46,reconstruct GlosbeResearch,verb,high
+62,46,reset,verb,high
+63,47,edit,verb,high
+64,47,redo,verb,high
+65,47,Action Center,noun,medium
+66,47,zoom out,noun,medium
+67,48,zoom out,verb,high
+68,49,decrypt,verb,high
+69,50,publish,verb,high
+70,50,File as Printout,phrase,medium
+71,51,File as Printout,phrase,high
+72,52,enter,verb,high
+73,53,locate,verb,high
+74,53,search,verb,high
+75,53,search To try to locate an object,verb,high
+76,54,select,verb,high
+77,55,scroll,verb,high
+78,56,change,verb,high
+79,56,change To modify the value of a,verb,high
+80,57,navigate,verb,high
+81,58,check,verb,high
+82,59,unpin,verb,high
+83,60,write-protect,noun,high
+84,61,meditate,verb,high
+85,62,demijohn,noun,high
+86,62,flask,noun,high
+87,62,jug,noun,high
+88,63,fiber,noun,high
+89,63,fibre,noun,high
+90,64,Ch,noun,high
+91,65,China,noun,high
+92,65,Chinese,noun,medium
+93,66,digitally sign,noun,high
+94,67,judge,verb,high
+95,68,insert,verb,high
+96,68,embedded audio clip,phrase,medium
+97,68,embedded video clip,phrase,medium
+98,69,format,verb,high
+99,70,remove,verb,high
+100,71,delete,verb,high
+101,72,switch,verb,high
+102,73,disconnect,verb,high
+103,74,crop,verb,high
+104,75,detach,verb,high
+105,76,subtract,verb,high
+106,77,seychelles,verb,high
+107,78,still,adjective,high
+108,78,still Moṣìń ṣiṣẹ́ lé e lórí.I'mstillworing on it,adjective,high
+109,79,mummy,noun,high
+110,79,mummynounembalmed corpse,noun,high
+111,80,mummy,verb,high
+112,80,mummynounembalmed corpse,noun,high
+113,81,chicago,noun,high
+114,82,open,verb,high
+115,82,opened,adjective,high
+116,82,start,verb,high
+117,83,Open Sync Center,phrase,high
+118,84,migrate,verb,high
+119,85,immigrate,verb,high
+120,86,immigrate,verb,high
+121,87,bucket,noun,high
+122,87,bucket Glosbe Research,noun,high
+123,87,ladle,noun,high
+124,87,ladle Glosbe Research,noun,high
+125,87,scoop,noun,high
+126,87,scoop Glosbe Research,noun,high
+127,87,spoon,noun,high
+128,87,spoonful,adjective,medium
+129,88,click,verb,high
+130,89,with one click,phrase,high
+131,90,double-click,verb,high
+132,91,calculate,verb,high
+133,92,immigrate,verb,high
+134,93,log off,verb,high
+135,94,Windows Problem Reporting,phrase,high
+136,95,logging,noun,high
+137,96,park,verb,high
+138,97,re-image,noun,high
+139,98,unpark,verb,high
+140,99,gapless burning,verb,high
+141,100,Filter Excluding Selection,phrase,high
+142,101,sharp,adjective,high
+143,102,but,verb,high
+144,103,bay,adjective,high
+145,104,sugar,verb,high
+146,105,chain,noun,high
+147,106,burn,verb,high
+148,106,copy,verb,high
+149,106,back up,noun,medium
+150,106,scan,noun,medium
+151,107,back up,verb,high
+152,108,scan,verb,high
+153,109,shekere,noun,high
+154,110,overtype,verb,high
+155,111,remain,verb,high
+156,111,remainverbÌletò kan lóṣẹ́ kùOne hamletremained,verb,high
+157,112,wink,verb,high
+158,113,collapse,verb,high
+159,114,shell,noun,high
+160,114,shell The command interpreter that,noun,high
+161,115,hunt,verb,high
+162,116,optimize,verb,high
+163,117,beware,verb,high
+164,117,beware Web Devs,verb,high
+165,118,shop,verb,high
+166,118,shop interjectionborabi,verb,high

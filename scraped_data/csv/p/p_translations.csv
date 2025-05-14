@@ -1,0 +1,296 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,kill,verb,high
+2,1,killverbṢó o fẹ́pamí ni!?Do you want tokillme,verb,high
+3,2,close,verb,high
+4,3,archive,verb,high
+5,4,earn,verb,high
+6,5,Clear Recordings,verb,high
+7,6,discard changes,verb,high
+8,7,shut down,verb,high
+9,7,turn off,verb,high
+10,8,Shut Down,noun,high
+11,8,turn off,verb,high
+12,9,come back,verb,high
+13,9,come backverbnabeelah,verb,high
+14,10,return home,verb,high
+15,11,Back,noun,high
+16,12,leveling,noun,high
+17,12,aerification,noun,medium
+18,13,undo,verb,high
+19,14,close,verb,high
+20,14,close TraverseGPAware,verb,high
+21,15,make noise,verb,high
+22,17,Plank,noun,high
+23,17,brown,noun,medium
+24,18,pakistan,noun,high
+25,21,harm,verb,high
+26,21,harm TraverseGPAware,verb,high
+27,22,palestine,noun,high
+28,23,Save,noun,high
+29,23,mortuary,noun,medium
+30,23,Saved networks,verb,medium
+31,23,seal,adjective,medium
+32,25,panama,noun,high
+33,25,panama canal,adjective,medium
+34,26,odd,adjective,high
+35,26,odd TraverseGPAware,adjective,high
+36,27,tin,adjective,high
+37,27,tin Ifedayo H Ayeni,adjective,high
+38,28,stockfish,noun,high
+39,29,fire fighter,noun,high
+40,29,fireman,noun,high
+41,29,fire station,noun,medium
+42,31,together,adjective,high
+43,31,merged cell,noun,medium
+44,32,paraguay,noun,high
+45,34,paris,verb,high
+46,35,Paris,verb,high
+47,37,ravage,verb,high
+48,37,ravage TraverseGPAware,verb,high
+49,38,destroy,verb,high
+50,38,end,verb,high
+51,38,finish off,verb,high
+52,38,finish off Glosbe Research,verb,high
+53,38,smash,verb,high
+54,38,smash Glosbe Research,verb,high
+55,38,Complete the merge,phrase,medium
+56,39,Complete the merge,phrase,high
+57,40,paralyze,verb,high
+58,40,paralyze TraverseGPAware,verb,high
+59,41,cancel,verb,high
+60,41,Delete,noun,high
+61,42,cancel,verb,high
+62,42,Delete,noun,high
+63,43,ignore,verb,high
+64,45,gulf war,noun,medium
+65,46,gulf war,noun,high
+66,48,peru,noun,high
+67,49,decide,verb,high
+68,49,determine,verb,high
+69,49,ratify,verb,high
+70,49,ratify TraverseGPAware,verb,high
+71,50,Pichilemu,noun,high
+72,50,Pichilemu en.wiktionary.org,noun,high
+73,56,planet,noun,high
+74,57,planet,noun,high
+75,58,absence,noun,high
+76,58,absence GlosbeResearch,noun,high
+77,59,Pluto,noun,high
+78,60,plutonium,noun,high
+79,60,plutoniumnounelement with the atomic number of 94,noun,high
+80,62,Poland,noun,high
+81,77,protactinium,noun,high
+82,80,prokaryotes,noun,high
+83,81,proton,noun,high
+84,82,proton,noun,high
+85,83,red,adjective,high
+86,83,yellow,adjective,high
+87,83,yellow Glosbe Research,adjective,high
+88,83,orange,noun,medium
+89,83,pink,noun,medium
+90,83,red sea,noun,medium
+91,83,red-green-blue,noun,medium
+92,83,sapphire,noun,medium
+93,83,turmeric,adjective,medium
+94,84,orange,adjective,high
+95,84,orange TraverseGPAware,adjective,high
+96,88,lose,verb,high
+97,89,initialize,verb,high
+98,90,bamboo,noun,high
+99,90,bamboo TraverseGPAware,noun,high
+100,91,mat,noun,high
+101,91,mat TraverseGPAware,noun,high
+102,92,Notes E-mailed To Me,phrase,high
+103,93,bargain,noun,high
+104,93,bargain TraverseGPAware,noun,high
+105,94,encrypt,verb,high
+106,95,chief,noun,high
+107,95,main,adjective,high
+108,95,mainly,adverb,high
+109,96,important,adjective,high
+110,96,important TraverseGPAware,adjective,high
+111,97,Switch User,noun,high
+112,98,actually,adverb,high
+113,98,especially,adverb,high
+114,98,particularly,adverb,high
+115,99,debris,noun,high
+116,99,garbage,noun,high
+117,99,rubbish,noun,high
+118,100,whip,verb,high
+119,100,whip Stephen Ogunbiyi,verb,high
+120,101,quick,adjective,high
+121,102,cassava,noun,high
+122,103,carton,noun,high
+123,103,carton TraverseGPAware,noun,high
+124,104,Document Panel,noun,high
+125,105,Control Panel,noun,high
+126,106,Document Information Panel,phrase,high
+127,107,field,noun,high
+128,107,grassland,noun,high
+129,107,pasture,noun,high
+130,107,yard,verb,high
+131,107,soccer pitch,noun,medium
+132,108,soccer pitch,noun,high
+133,109,soccer pitch,noun,high
+134,110,football field,noun,high
+135,110,soccer pitch,noun,high
+136,111,soccer pitch,noun,high
+137,112,airfield,noun,high
+138,112,airport,noun,high
+139,113,underwear,noun,high
+140,113,undies,noun,high
+141,114,hoof,noun,high
+142,114,wood,adjective,high
+143,114,wood Niiko_okiiN,noun,high
+144,115,board,noun,high
+145,115,Sports Scoreboard,noun,medium
+146,116,Sports Scoreboard,noun,high
+147,117,absolutely,adjective,high
+148,117,just,adverb,high
+149,117,quite,adverb,high
+150,118,canister,noun,high
+151,118,canister TraverseGPAware,noun,high
+152,118,pan,noun,high
+153,118,pan TraverseGPAware,noun,high
+154,119,cardboard,noun,high
+155,120,can,noun,high
+156,120,can TraverseGPAware,noun,high
+157,121,jaw,noun,high
+158,122,Persian,adjective,high
+159,122,Farsi,noun,medium
+160,123,Preview Pane,noun,high
+161,124,cater,verb,high
+162,124,cater GlosbeResearch,verb,high
+163,125,plain terrain,noun,high
+164,126,storey,noun,high
+165,127,invite,verb,high
+166,128,just,adjective,high
+167,128,just adverbÀádọ́ta náíràpéré?Justfifty naira,adjective,high
+168,128,only,adverb,high
+169,129,pixel,noun,high
+170,130,divide,verb,high
+171,130,part,verb,high
+172,130,administer,noun,medium
+173,130,allocate,noun,medium
+174,130,asymmetric,adjective,medium
+175,130,symmetric,adjective,medium
+176,131,allocate,verb,high
+177,132,administer,verb,high
+178,132,administer TraverseGPAware,verb,high
+179,133,share,verb,high
+180,134,divorce,noun,high
+181,135,destroying forests,verb,high
+182,136,deadly,adjective,high
+183,136,deadly TraverseGPAware,adjective,high
+184,137,encoding,noun,high
+185,137,Blocked Encodings List,phrase,medium
+186,138,bald,adjective,high
+187,138,bald TraverseGPAware,adjective,high
+188,139,integrity,noun,high
+189,139,data integrity,noun,medium
+190,140,data integrity,noun,high
+191,141,late,adjective,high
+192,141,long lasting,adjective,high
+193,141,archive,adjective,medium
+194,142,color gamut,noun,high
+195,143,ripe,adjective,high
+196,143,ripeadjectiveỌ̀gẹ̀dẹ̀pípọ́ndùn.Ripeplantain,adjective,high
+197,144,Pichilemu,noun,high
+198,144,Pichilemu en.wiktionary.org,noun,high
+199,145,kne,verb,high
+200,145,kne TraverseGPAware,verb,high
+201,146,mix,verb,high
+202,147,cite,verb,high
+203,147,cite TraverseGPAware,verb,high
+204,148,lose,verb,high
+205,149,pea,noun,high
+206,149,pea TraverseGPAware,noun,high
+207,150,hiss,verb,high
+208,150,kiss-teeth,verb,high
+209,150,kiss-teethverbpa òṣé,verb,high
+210,150,tut-tut,verb,high
+211,151,Poland,noun,high
+212,151,poles,verb,medium
+213,152,poland,noun,high
+214,152,poles,verb,medium
+215,153,street,adjective,high
+216,153,street nountítì,adjective,high
+217,153,on the street,phrase,medium
+218,154,pope,verb,high
+219,154,pope nounleader of the worldwide Catholic Church,verb,high
+220,154,popenounmasculine,noun,high
+221,155,pope,noun,high
+222,155,pope nounleader of the worldwide Catholic Church,verb,high
+223,155,popenounmasculine,noun,high
+224,156,casket,verb,high
+225,156,coffin,verb,high
+226,157,casket,noun,high
+227,157,casket TraverseGPAware,noun,high
+228,158,yellow,adjective,high
+229,159,much,adverb,high
+230,159,much TraverseGPAware,adverb,high
+231,159,large crowd,noun,medium
+232,160,puerto rico,noun,high
+233,161,fish,verb,high
+234,161,fishverbpa ẹjaMò ńpẹjalónìíI'mfishingtoday,verb,high
+235,162,also,adverb,high
+236,162,also Isokan Omo'Odua,adverb,high
+237,163,standard keyboard,noun,high
+238,164,data bar,noun,high
+239,165,formula bar,noun,high
+240,166,toolbar,noun,high
+241,166,docked toolbar,noun,medium
+242,166,floating toolbar,noun,medium
+243,166,Mini toolbar,noun,medium
+244,166,Standard toolbar,noun,medium
+245,167,Mini toolbar,noun,high
+246,168,floating toolbar,noun,high
+247,169,docked toolbar,noun,high
+248,170,menu bar,noun,high
+249,171,To-Do Bar,noun,high
+250,172,custom toolbar,noun,high
+251,172,custom toolbarMicrosoftLanguagePortal,adjective,high
+252,173,vertical bar,noun,high
+253,174,address bar,noun,high
+254,175,title bar,noun,high
+255,176,error bar,noun,high
+256,177,fraction bar,noun,high
+257,178,status bar,noun,high
+258,179,stacked bar chart,phrase,high
+259,180,scroll bar,noun,high
+260,181,Information bar,noun,high
+261,182,sound board,noun,high
+262,183,vertical scroll bar,phrase,high
+263,183,vertical scrollbar,noun,high
+264,184,link bar,noun,high
+265,185,split bar,noun,high
+266,186,navigation bar,noun,high
+267,187,spreadsheet,noun,high
+268,187,spreadsheet program,noun,high
+269,188,toolbar,noun,high
+270,188,Quick Access Toolbar,phrase,medium
+271,188,toolbar button,noun,medium
+272,189,Quick Access Toolbar,phrase,high
+273,190,ducken,noun,high
+274,191,gooseen,noun,high
+275,192,with,noun,high
+276,192,powered by Windows Live,phrase,medium
+277,192,Reply with Meeting,phrase,medium
+278,193,plain,adjective,high
+279,194,late,adverb,high
+280,194,lateadverbẸ má bínú tí mopẹ́dé.Sorry I camelate,adverb,high
+281,194,duckling,verb,medium
+282,194,pencil,noun,medium
+283,195,taskbar,noun,high
+284,196,duck,noun,high
+285,196,duckling,verb,medium
+286,197,pencil,noun,high
+287,198,pel,noun,high
+288,199,werehyena,noun,high
+289,199,werewolf,noun,high
+290,200,essential,adjective,high
+291,201,red,adjective,high
+292,201,redadjectivehaving red as its colourSwadesh Lists,adjective,high
+293,201,clipboard,noun,medium
+294,202,simple,adjective,high
+295,203,portugal,adjective,high

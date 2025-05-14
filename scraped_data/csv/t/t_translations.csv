@@ -1,0 +1,374 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,sting,verb,high
+2,1,sting Agbọ́n fẹ́tamí,verb,high
+3,2,oppose,verb,high
+4,3,who,pronoun,high
+5,3,whopro,pronoun,high
+6,4,eject,verb,high
+7,4,eject TraverseGPAware,verb,high
+8,5,local,adjective,high
+9,8,awake,verb,high
+10,8,awake TraverseGPAware,verb,high
+11,8,wake,verb,high
+12,8,wake TraverseGPAware,verb,high
+13,9,takanouncurrency of Bangladesh,noun,high
+14,10,taxi,noun,high
+15,11,cab,noun,high
+16,11,taxi,noun,high
+17,11,taxicab,noun,high
+18,12,oppose,verb,high
+19,13,poor,adjective,high
+20,13,poor Poor PeopleIfedayo H Ayeni,adjective,high
+21,14,talc nounphyllosilicate mineral,verb,high
+22,15,talc nounphyllosilicate mineral,verb,high
+23,17,can,noun,high
+24,17,can TraverseGPAware,noun,high
+25,19,who,pronoun,high
+26,20,tantalumnounelement with the atomic number of 73,noun,high
+27,21,tantalumnounelement with the atomic number of 73,noun,high
+28,23,forward,verb,high
+29,25,Tastee Fried ChickenHeiNER - the,phrase,high
+30,31,phone,noun,high
+31,31,telephone,noun,high
+32,32,telluriumnounneuter,noun,high
+33,33,telluriumnounneuter,noun,high
+34,35,terbiumnounelement with the atomic number of 65,noun,high
+35,36,terbiumnounelement with the atomic number of 65,noun,high
+36,38,Thabo MbekiHeiNER - the,phrase,high
+37,41,thailand,noun,high
+38,42,if,conjunction,high
+39,42,of,preposition,high
+40,42,push,verb,high
+41,42,that,pronoun,high
+42,42,which,pronoun,high
+43,43,feminine,adjective,high
+44,44,partial,adjective,high
+45,44,partial TraverseGPAware,adjective,high
+46,45,paternal,adjective,high
+47,45,paternal TraverseGPAware,adjective,high
+48,45,paternity,noun,high
+49,45,paternity TraverseGPAware,adjective,high
+50,46,oral,adjective,high
+51,46,oral GlosbeResearch,adjective,high
+52,47,Invited,verb,high
+53,48,radical,adjective,high
+54,48,radical TraverseGPAware,adjective,high
+55,49,fatal,adjective,high
+56,49,fatal TraverseGPAware,adjective,high
+57,50,optical,adjective,high
+58,50,optical TraverseGPAware,adjective,high
+59,50,visual,adjective,high
+60,50,visual TraverseGPAware,adjective,high
+61,51,golden,adjective,high
+62,51,golden TraverseGPAware,adjective,high
+63,52,female,adjective,high
+64,52,female TraverseGPAware,adjective,high
+65,53,juvenile,adjective,high
+66,53,juvenile TraverseGPAware,adjective,high
+67,54,abusive,adjective,high
+68,54,abusive TraverseGPAware,adjective,high
+69,55,native,adjective,high
+70,55,native TraverseGPAware,adjective,high
+71,56,seasonal,adjective,high
+72,56,seasonal TraverseGPAware,adjective,high
+73,57,scenic,adjective,high
+74,57,scenic TraverseGPAware,adjective,high
+75,58,characteristic,adjective,high
+76,58,characteristic TraverseGPAware,adjective,high
+77,59,historic,adjective,high
+78,59,historic TraverseGPAware,adjective,high
+79,60,rainy,adjective,high
+80,60,rainy TraverseGPAware,adjective,high
+81,61,understanding,adjective,high
+82,61,understanding TraverseGPAware,adjective,high
+83,62,have been,phrase,high
+84,62,have not been,phrase,medium
+85,63,updated,verb,high
+86,66,tick-borne encephalitis vaccinepreventive medicine,phrase,high
+87,69,naturally,adverb,high
+88,69,naturally TraverseGPAware,adverb,high
+89,71,opposite,adjective,high
+90,71,opposite TraverseGPAware,adjective,high
+91,72,yoruba teacher,noun,high
+92,73,titanium,noun,high
+93,73,titaniumnounelement with the atomic number of 22,noun,high
+94,75,newlyen,noun,high
+95,75,new,noun,medium
+96,75,new testament,noun,medium
+97,76,new,adjective,high
+98,76,new Swadesh Lists,adjective,high
+99,78,approximately,adverb,high
+100,78,approximatelyadverbborabi,adverb,high
+101,82,Turkey,noun,high
+102,83,turkeyen,noun,high
+103,84,country code top-level domain,phrase,medium
+104,88,trigonometry,noun,high
+105,89,trigonometry,noun,high
+106,91,Xitsonga,noun,high
+107,92,Chile,noun,high
+108,92,Chileen.wiktionary.org,noun,high
+109,93,chile,noun,high
+110,93,Chileen.wiktionary.org,noun,high
+111,94,row,verb,high
+112,94,sail,verb,high
+113,98,frankinsence,noun,high
+114,98,Incense,noun,high
+115,99,frankinsence,noun,high
+116,99,Incense,noun,high
+117,101,cold,adjective,high
+118,101,cool,noun,high
+119,101,damp,adjective,high
+120,101,damp TraverseGPAware,adjective,high
+121,102,market,verb,high
+122,102,sell,verb,high
+123,102,sell TraverseGPAware,verb,high
+124,102,vend,verb,high
+125,103,or,conjunction,high
+126,103,versus,verb,high
+127,103,versusadpositionTraverseGPAware,conjunction,high
+128,103,either,noun,medium
+129,103,forwards and backwards,phrase,medium
+130,103,greater than or equal to sign,phrase,medium
+131,103,less than or equal to sign,phrase,medium
+132,103,plus or minus sign,phrase,medium
+133,103,sex,noun,medium
+134,103,up and down,phrase,medium
+135,104,ink,noun,high
+136,104,inkwell,noun,medium
+137,105,chat,verb,high
+138,106,tip over,verb,high
+139,107,coax,verb,high
+140,107,coaxverbÓ fẹ́tànẹ́He wants tocoaxyou,verb,high
+141,107,fool,verb,high
+142,107,fool O máatànánYou willfoolher,verb,high
+143,107,carrier,noun,medium
+144,107,cheat,noun,medium
+145,107,fraudulent,noun,medium
+146,107,screen,noun,medium
+147,107,storyboard,noun,medium
+148,107,turn on,noun,medium
+149,108,turn on,verb,high
+150,109,cheat,noun,high
+151,109,cheat GlosbeResearch,noun,high
+152,110,spre,noun,high
+153,111,tanzania,noun,high
+154,112,Tanzania,noun,high
+155,113,kick,verb,high
+156,114,legacy,noun,high
+157,115,Turk,noun,high
+158,115,Turk Stephen Ogunbiyi,noun,high
+159,115,Turkish,noun,medium
+160,116,bell pepper,noun,high
+161,117,straight,adjective,high
+162,117,direct memory access,phrase,medium
+163,117,simile,noun,medium
+164,118,cigarette,noun,high
+165,118,cigarette TraverseGPAware,noun,high
+166,119,table,noun,high
+167,119,external table,adjective,medium
+168,119,periodic table,adjective,medium
+169,119,primary table,adjective,medium
+170,119,repeating table,adjective,medium
+171,120,primary table,adjective,high
+172,121,Excel table,adjective,high
+173,122,repeating table,adjective,high
+174,123,layout table,adjective,high
+175,124,periodic table,noun,high
+176,125,periodic table,noun,high
+177,127,external table,adjective,high
+178,128,File tab,noun,high
+179,129,paper,noun,high
+180,129,sheet of paper,phrase,medium
+181,130,paper,noun,high
+182,130,paper TraverseGPAware,noun,high
+183,131,decode,verb,high
+184,131,decode TraverseGPAware,verb,high
+185,132,tin,adjective,high
+186,133,Nupe,noun,high
+187,134,tab,noun,high
+188,134,Quick Tabs,verb,medium
+189,134,sheet tab,noun,medium
+190,134,tab character,noun,medium
+191,134,tab stop,noun,medium
+192,135,sheet tab,noun,high
+193,136,carbohydrate,noun,high
+194,137,tile,noun,high
+195,138,radical,adjective,high
+196,138,radical TraverseGPAware,adjective,high
+197,139,mine,verb,high
+198,139,mine pro,verb,high
+199,140,quick,adjective,high
+200,140,quickly,adverb,high
+201,141,hungry,adjective,high
+202,142,nested table,adjective,high
+203,143,hight,adjective,high
+204,143,peak,adjective,high
+205,144,lottery,noun,high
+206,145,eject,verb,high
+207,145,eject TraverseGPAware,verb,high
+208,146,self,adjective,high
+209,146,self TraverseGPAware,adjective,high
+210,147,fade,verb,high
+211,148,unbearable,adjective,high
+212,148,unbearable TraverseGPAware,adjective,high
+213,149,unbearable,adjective,high
+214,149,unbearable TraverseGPAware,adjective,high
+215,150,necessary,adjective,high
+216,150,necessary GlosbeResearch,adjective,high
+217,151,deadly,adjective,high
+218,151,deadly GlosbeResearch,adjective,high
+219,152,fatal,adjective,high
+220,152,fatal GlosbeResearch,adjective,high
+221,153,satisfactory,adjective,high
+222,153,satisfactory TraverseGPAware,adjective,high
+223,154,quarrelsome,adjective,high
+224,154,quarrelsome TraverseGPAware,adjective,high
+225,155,ultimate,adjective,high
+226,155,ultimate TraverseGPAware,adjective,high
+227,156,absent-minded,adjective,high
+228,156,forgetful,adjective,high
+229,156,oblivious,adjective,high
+230,157,thin,adjective,high
+231,158,distribution,noun,high
+232,159,sales,noun,high
+233,160,glow,verb,high
+234,161,Elapsed,verb,high
+235,162,street,adjective,high
+236,162,thoroughfare,noun,high
+237,163,until,noun,high
+238,164,dimension,noun,high
+239,164,dimension TraverseGPAware,noun,high
+240,164,greatness,noun,high
+241,164,quantity,noun,high
+242,164,quantity TraverseGPAware,noun,high
+243,165,tame,verb,high
+244,165,tame GlTrav3,verb,high
+245,166,publishing,noun,high
+246,167,correct,adjective,high
+247,168,linking,noun,high
+248,169,theater,noun,high
+249,169,theatre,noun,high
+250,170,tea,noun,high
+251,170,teanoundrink made from leaves of tea plant,noun,high
+252,171,infectious,adjective,high
+253,171,infectious TraverseGPAware,adjective,high
+254,172,arrange,verb,high
+255,173,sort,verb,high
+256,174,turkey,noun,high
+257,175,tomato,noun,high
+258,176,tomato,noun,high
+259,177,tomato,noun,high
+260,178,amount to,noun,high
+261,178,enough,interjection,high
+262,178,sufficient,adjective,high
+263,179,hidden,adjective,high
+264,180,available,adverb,high
+265,180,available Referring to anything that,adverb,high
+266,180,available memory,noun,medium
+267,181,active,adjective,high
+268,182,adequate,adjective,high
+269,182,adequate TraverseGPAware,adjective,high
+270,183,ample,adjective,high
+271,183,ample TraverseGPAware,adjective,high
+272,183,big,adjective,high
+273,183,bro,adjective,high
+274,183,bro Glosbe Research,adjective,high
+275,183,magnify,noun,medium
+276,184,Togo,noun,high
+277,185,togo,verb,high
+278,186,thorium,noun,high
+279,187,narrow,adjective,high
+280,187,narrow TraverseGPAware,adjective,high
+281,187,slim,adjective,high
+282,187,slimadjectivenarrow,adjective,high
+283,188,tomato,noun,high
+284,188,tomato GlTrav3,noun,high
+285,189,Tunisia,noun,high
+286,190,incense,verb,high
+287,191,untie,verb,high
+288,192,unpack,verb,high
+289,192,unpack GlTrav3,verb,high
+290,193,unpair,verb,high
+291,194,blackmail,verb,high
+292,195,translate,verb,high
+293,195,translateVerb nounborabi,verb,high
+294,196,again,adverb,high
+295,196,again adpositionMotúndé.I arrivedagain,adverb,high
+296,196,complex script,noun,medium
+297,196,left and right,phrase,medium
+298,196,recycle,noun,medium
+299,196,Reset,noun,medium
+300,196,right,noun,medium
+301,196,right brace,noun,medium
+302,196,right bracket,noun,medium
+303,196,right mouse button,phrase,medium
+304,197,reassure,verb,high
+305,197,reassure TraverseGPAware,verb,high
+306,198,recycle,noun,high
+307,199,requery,noun,high
+308,200,Reset,noun,high
+309,201,repair,verb,high
+310,202,turkey,noun,high
+311,202,Turkeyen,noun,high
+312,203,Turkey,noun,high
+313,203,Turkeyen,noun,high
+314,204,river hog,noun,high
+315,204,river hogọ̀rọ̀ orúkọ,phrase,high
+316,205,river hog,noun,high
+317,206,technology,noun,high
+318,207,technology,noun,high
+319,208,television,noun,high
+320,209,television,verb,high
+321,210,television,noun,high
+322,211,phone,verb,high
+323,212,Microsoft text telephone,phrase,high
+324,213,temple,noun,high
+325,213,templenounworship placeen.wiktionary2016,noun,high
+326,214,emphasize,verb,high
+327,214,highlight,verb,high
+328,215,bend,verb,high
+329,215,bend MotẹọrunIbenta bow,verb,high
+330,215,leprosy,noun,medium
+331,215,overtype mode,noun,medium
+332,215,spirit realm,noun,medium
+333,216,follow,verb,high
+334,216,"follow Tẹ̀ lémi ká lọFollowme, let's go",verb,high
+335,216,overtype mode,noun,medium
+336,217,continue,verb,high
+337,217,continueverbẸ jẹ́ kátẹ̀ síwájúLet'scontinue,verb,high
+338,218,indent,verb,high
+339,219,hold down,verb,high
+340,220,publish,verb,high
+341,221,telescope,verb,high
+342,221,space observatory,noun,medium
+343,222,telescope,noun,high
+344,222,space observatory,noun,medium
+345,223,space observatory,noun,high
+346,224,before,adverb,high
+347,225,tennis,noun,high
+348,225,tennis nounball sport with racket and net,verb,high
+349,226,terabyte,noun,high
+350,227,thesaurus,noun,high
+351,228,listen,verb,high
+352,229,married couple,noun,high
+353,230,follow,verb,high
+354,230,follow nounborabi,verb,high
+355,230,urinate,verb,high
+356,230,urinateverbborabi,verb,high
+357,231,nudge,verb,high
+358,231,provoke,verb,high
+359,231,provoke TraverseGPAware,verb,high
+360,231,copyright,noun,medium
+361,231,human rights,verb,medium
+362,231,linked style sheet,phrase,medium
+363,231,threepence,noun,medium
+364,231,Turkish,noun,medium
+365,232,keep,verb,high
+366,232,prepare,verb,high
+367,232,prepare nounborabi,verb,high
+368,232,see to,verb,high
+369,232,see toverbborabi,verb,high
+370,232,take care,verb,high
+371,233,threepence,noun,high
+372,233,threepencenounborabi,noun,high
+373,234,touchp,noun,high

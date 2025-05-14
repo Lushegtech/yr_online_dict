@@ -1,0 +1,25 @@
+id,word_id,translation,part_of_speech,confidence
+1,2,Ukraine,noun,high
+2,3,ukraine,noun,high
+3,5,house,verb,high
+4,6,Ballymote,noun,high
+5,6,Umaru Yar'Adua,noun,high
+6,6,Umaru Yar'AduaHeiNER-the-,noun,high
+7,8,United Nations Children's Fund,noun,high
+8,8,United Nations Children's Fund HeiNER-the-,noun,high
+9,10,Uniform,noun,high
+10,10,Uniform Resource Locator HeiNER-the-,noun,high
+11,13,oganesson,noun,high
+12,13,oganessonnounelement with the atomic number of 118,noun,high
+13,14,moscovium,noun,high
+14,14,moscoviumnounelement with the atomic number of 115,noun,high
+15,15,tennessine,noun,high
+16,16,nihonium,noun,high
+17,16,nihoniumnounelement with atomic number 113,noun,high
+18,17,uraninitenounoxide mineral,noun,high
+19,21,uruguay,noun,high
+20,23,Coordinated Universal Time,phrase,high
+21,25,uganda,noun,high
+22,26,uranium,noun,high
+23,27,Uranus,noun,high
+24,28,uranus,verb,high

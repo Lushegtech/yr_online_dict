@@ -1,0 +1,209 @@
+id,word_id,translation,part_of_speech,confidence
+1,1,our,pronoun,high
+2,2,drive,verb,high
+3,3,bull,noun,high
+4,3,calf,noun,high
+5,3,cattle,noun,high
+6,4,cheeseen,noun,high
+7,8,Werecat,noun,high
+8,10,wales,verb,high
+9,11,M A m personIfedayo H Ayeni,phrase,high
+10,11,Mad,noun,high
+11,11,audio,noun,medium
+12,13,what happendTunuity,noun,high
+13,15,i am coming,phrase,high
+14,15,i am comingChinedu N Chidy,phrase,high
+15,17,Wikimedia Foundation,noun,high
+16,17,Wikimedia FoundationHeiNER-the-,noun,high
+17,20,Internet Key Exchange,phrase,high
+18,21,wash the hands,phrase,high
+19,21,wash the handsborabi,phrase,high
+20,22,collapse,verb,high
+21,22,look,verb,high
+22,22,see,verb,high
+23,22,view,verb,high
+24,23,collapse,verb,high
+25,23,look,verb,high
+26,23,see,verb,high
+27,23,view,verb,high
+28,25,tungsten,noun,high
+29,28,be located,verb,high
+30,28,exist,verb,high
+31,29,be alive,adjective,high
+32,30,Online,noun,high
+33,31,available,adjective,medium
+34,31,available memory,noun,medium
+35,32,disabled,adjective,high
+36,33,quickly,adverb,high
+37,33,quickly TraverseGPAware,adverb,high
+38,34,milk,noun,high
+39,34,yogurt,noun,high
+40,34,yogurt TraverseGPAware,noun,high
+41,34,tofu,noun,medium
+42,35,tofu,noun,high
+43,36,cheese,noun,high
+44,37,cheese,noun,high
+45,38,you will,noun,high
+46,38,you willWàápẹ́ láyéYou willlive long,phrase,high
+47,38,half past ten,phrase,medium
+48,38,one thousand nine hundred,phrase,medium
+49,38,ten,noun,medium
+50,38,ten commandments,verb,medium
+51,38,ten minutes to five o'clock,phrase,medium
+52,38,ten o'clock,noun,medium
+53,38,two thousand,noun,medium
+54,39,be,verb,high
+55,39,come,verb,high
+56,39,find,verb,high
+57,39,look for,verb,high
+58,39,search,verb,high
+59,40,browse for,noun,high
+60,41,find,verb,high
+61,41,find TraverseGPAware,verb,high
+62,42,inquire,verb,high
+63,42,inquireverbborabi,verb,high
+64,42,investigate,verb,high
+65,42,investigateverbborabi,verb,high
+66,43,Look Up,noun,high
+67,43,Instant Search,noun,medium
+68,44,Instant Search,noun,high
+69,45,hour,noun,high
+70,45,time,verb,high
+71,46,hour,noun,high
+72,46,time,verb,high
+73,47,epilepsy,noun,high
+74,47,seizure,noun,high
+75,48,browse,verb,high
+76,49,seek,verb,high
+77,49,seek TraverseGPAware,verb,high
+78,50,access,verb,high
+79,51,debug,verb,high
+80,52,budget,noun,high
+81,53,say,verb,high
+82,54,window,noun,high
+83,54,command prompt window,phrase,medium
+84,54,document window,noun,medium
+85,54,inactive window,noun,medium
+86,54,palette window,noun,medium
+87,54,pop-up window,noun,medium
+88,54,primary window,noun,medium
+89,54,rich-text box,noun,medium
+90,54,Window Gallery,noun,medium
+91,55,primary window,noun,high
+92,56,inactive window,noun,high
+93,57,active window,noun,high
+94,57,active windowThe window in which a user,phrase,high
+95,58,command prompt window,phrase,high
+96,59,pop-up window,noun,high
+97,60,document window,noun,high
+98,61,palette window,noun,high
+99,62,being,noun,high
+100,62,existence,noun,high
+101,62,category of being,phrase,medium
+102,63,presence,verb,high
+103,64,tabbed browsing,verb,high
+104,65,measure,verb,high
+105,65,measure nounmathematical concept in measure theory,verb,high
+106,66,look,verb,high
+107,67,cure,verb,high
+108,68,Fade,noun,high
+109,69,prophet,noun,high
+110,70,heal,verb,high
+111,70,heal TraverseGPAware,verb,high
+112,71,reflect,verb,high
+113,72,fall,verb,high
+114,72,fall off,verb,high
+115,72,fall off GlosbeResearch,verb,high
+116,73,swell,verb,high
+117,74,effective,adjective,high
+118,74,practical,adjective,high
+119,75,maid,noun,high
+120,75,maid TraverseGPAware,noun,high
+121,75,virgin,noun,high
+122,75,virgin TraverseGPAware,noun,high
+123,75,young lady,noun,high
+124,75,young lady Glosbe Research,noun,high
+125,75,young woman,noun,high
+126,75,young woman Glosbe Research,noun,high
+127,76,item,noun,high
+128,76,thing,noun,high
+129,76,thing GlTrav3,noun,high
+130,76,deliverable,adjective,medium
+131,76,depth of field,phrase,medium
+132,76,field button,noun,medium
+133,76,field type,noun,medium
+134,76,Lookup field,noun,medium
+135,76,merge field,noun,medium
+136,76,root element,noun,medium
+137,77,Outlook item,noun,high
+138,78,deliverable,noun,high
+139,79,root element,noun,high
+140,80,design element,noun,high
+141,81,untidy,adjective,high
+142,81,untidy TraverseGPAware,adjective,high
+143,82,gold,noun,high
+144,82,money,noun,high
+145,82,money GlosbeResearch,noun,high
+146,83,gold,noun,high
+147,83,gold TraverseGPAware,noun,high
+148,84,heavy,adjective,high
+149,84,massive,adjective,high
+150,84,massive TraverseGPAware,adjective,high
+151,84,weighty,adjective,high
+152,85,swim,verb,high
+153,85,swim Erinmi lèwẹdòdáadáa.Hippos canswimwell,verb,high
+154,86,bathe,verb,high
+155,86,bathe nounborabi,verb,high
+156,87,small fragments,verb,high
+157,87,small fragmentsborabi,noun,high
+158,87,banana,noun,medium
+159,87,lime,noun,medium
+160,87,slicer,noun,medium
+161,88,web,noun,high
+162,88,web address,verb,medium
+163,88,Web Distributed Authoring and Versioning,phrase,medium
+164,88,web filtering,verb,medium
+165,88,Web Part zone,phrase,medium
+166,88,Web service,noun,medium
+167,88,World Wide Web,phrase,medium
+168,89,Web,noun,high
+169,89,web address,verb,medium
+170,89,Web Distributed Authoring and Versioning,phrase,medium
+171,89,web filtering,verb,medium
+172,89,Web Part zone,phrase,medium
+173,89,Web service,noun,medium
+174,89,World Wide Web,phrase,medium
+175,90,World Wide Web,phrase,high
+176,91,web log,noun,high
+177,91,weblog,noun,high
+178,92,Sign In,noun,high
+179,92,call waiting,verb,medium
+180,92,communications port,noun,medium
+181,92,data entry,noun,medium
+182,92,enter,noun,medium
+183,92,Wole Soyinka,noun,medium
+184,93,sign in,verb,high
+185,93,call waiting,verb,medium
+186,93,communications port,noun,medium
+187,93,data entry,noun,medium
+188,93,enter,noun,medium
+189,93,Wole Soyinka,noun,medium
+190,94,Wole Soyinka,noun,high
+191,94,Wole SoyinkaHeiNER - the,phrase,high
+192,95,put on clothing,phrase,high
+193,95,put on clothingborabi,phrase,high
+194,95,wear,verb,high
+195,95,content class,verb,medium
+196,96,drag,verb,high
+197,96,Categories,verb,medium
+198,96,class module,noun,medium
+199,96,custom group,noun,medium
+200,96,homegroup,noun,medium
+201,96,repeating group,noun,medium
+202,96,sponsorship,noun,medium
+203,97,beloved,noun,high
+204,97,beloved Wiktionnaire,noun,high
+205,97,cherished,adjective,high
+206,97,cherished Wiktionnaire,noun,high
+207,97,costly,adjective,high
+208,97,costly Wiktionnaire,noun,high

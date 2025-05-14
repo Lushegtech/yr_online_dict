@@ -1,0 +1,127 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Word {
+  id              String          @id @default(uuid())
+  word            String
+  pronunciation   String?
+  syllables       String?
+  partOfSpeech    String?
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+  alphabetId      String?
+  isFeatured      Boolean         @default(false)
+  tonalMarks      String?
+  audioUrl        String?
+  etymology       String?
+  dialectVariants String?
+  examples        Example[]
+  featured        Featured?
+  searchHistory   SearchHistory[]
+  translations    Translation[]
+  userBookmarks   UserBookmark[]
+  alphabet        Alphabet?       @relation(fields: [alphabetId], references: [id])
+
+  @@index([word])
+}
+
+model Translation {
+  id        String   @id @default(uuid())
+  text      String
+  language  String   @default("en")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  wordId    String
+  word      Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([wordId])
+  @@index([language])
+}
+
+model Example {
+  id             String   @id @default(uuid())
+  yorubaSentence String
+  translation    String
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  wordId         String
+  word           Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([wordId])
+}
+
+model Alphabet {
+  id        String   @id @default(uuid())
+  letter    String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  words     Word[]
+}
+
+model Featured {
+  id        String    @id @default(uuid())
+  wordId    String    @unique
+  startDate DateTime  @default(now())
+  endDate   DateTime?
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  word      Word      @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([startDate, endDate])
+}
+
+model User {
+  id            String          @id @default(uuid())
+  name          String?
+  email         String          @unique
+  passwordHash  String?
+  image         String?
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime        @updatedAt
+  searchHistory SearchHistory[]
+  bookmarks     UserBookmark[]
+}
+
+model UserBookmark {
+  id        String   @id @default(uuid())
+  userId    String
+  wordId    String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word      Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+  @@index([userId])
+  @@index([wordId])
+}
+
+model SearchHistory {
+  id        String   @id @default(uuid())
+  userId    String
+  wordId    String
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word      Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([wordId])
+  @@index([createdAt])
+}
+
+model CulturalFact {
+  id        String   @id @default(uuid())
+  title     String
+  content   String
+  imageUrl  String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  isActive  Boolean  @default(true)
+}
