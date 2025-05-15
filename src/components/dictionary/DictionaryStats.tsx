@@ -8,7 +8,7 @@ import { useState, useEffect } from 'react'
 interface DictionaryStatsProps {
   wordCount: number
   translationCount: number
-  contributors: number
+  examples: number
   lastUpdated: string
 }
 
@@ -76,7 +76,7 @@ const StatCard = ({
 export function DictionaryStats({
   wordCount,
   translationCount,
-  contributors,
+  examples,
   lastUpdated,
 }: DictionaryStatsProps) {
   return (
@@ -119,8 +119,8 @@ export function DictionaryStats({
           />
           <StatCard
             icon={Users}
-            label="Contributors"
-            value={contributors}
+            label="Examples"
+            value={examples}
             delay={0.5}
           />
           <StatCard

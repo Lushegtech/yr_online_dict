@@ -21,6 +21,9 @@ module.exports = {
         serif: ["var(--font-geist-serif)", "Georgia", "serif"],
         display: ["var(--font-geist-display)", "system-ui", "sans-serif"],
       },
+      backgroundSize: {
+        'size-200': '200% 200%',
+      },
       colors: {
         // Yoruba-inspired color palette - Enhanced with traditional Adire and Aso-Oke textile colors
         'yoruba-coral': {
@@ -131,6 +134,11 @@ module.exports = {
         "border-expand": {
           "0%": { borderLeftWidth: "4px" },
           "100%": { borderLeftWidth: "8px" },
+        },
+        // Cursor blinking animation for typing effect
+        "cursor-blink": {
+          "0%, 70%": { borderRightColor: "currentColor" },
+          "71%, 100%": { borderRightColor: "transparent" },
         }
       },
       animation: {
@@ -142,7 +150,8 @@ module.exports = {
         pulse: "pulse 2s ease-in-out infinite",
         // Custom animations
         "yoruba-pulse": "yoruba-pulse 1.2s ease-in-out",
-        "border-expand": "border-expand 0.3s ease-out forwards"
+        "border-expand": "border-expand 0.3s ease-out forwards",
+        "cursor": "cursor-blink 1s step-end infinite"
       },
       boxShadow: {
         soft: "0 2px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",

@@ -21,7 +21,7 @@ export function Hero() {
   const heroRef = useRef<HTMLDivElement>(null);
   const [particles, setParticles] = useState<Particle[]>([]);
   const [isMounted, setIsMounted] = useState(false);
-
+  
   // Only generate particles on the client side to avoid hydration mismatch
   useEffect(() => {
     setIsMounted(true);
@@ -94,7 +94,7 @@ export function Hero() {
 
       // Create floating particles effect with varied movement
       const particleElements = gsap.utils.toArray<Element>(".particle");
-      particleElements.forEach((particle, i) => {
+      particleElements.forEach((particle: Element, i: number) => {
         const speed = 2 + Math.random() * 3;
         const xDistance = 20 + Math.random() * 30;
         const yDistance = 20 + Math.random() * 30;
@@ -162,7 +162,7 @@ export function Hero() {
       <div className="absolute left-[15%] bottom-[15%] w-48 h-48 bg-accent/10 rounded-full blur-3xl"></div>
       
       {/* Main hero content */}
-      <Container className="relative">
+      <Container className="relative z-10">
         <div className="text-center space-y-8 py-20">
           <div className="flex flex-wrap gap-3 justify-center mb-6">
             <span className="hero-badge inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary/10 text-primary backdrop-blur-sm border border-primary/20">
@@ -179,22 +179,44 @@ export function Hero() {
             </span>
           </div>
 
-          <h1 className="hero-title text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight leading-tight">
-            <div className="overflow-hidden">
-              <span className="word inline-block">
-                <span className="text-gradient font-extrabold">
-                  Yorùbá
+          {/* Enhanced static title styling */}
+          <div className="relative py-4">
+            {/* Background glow effect */}
+            <div className="absolute inset-0 bg-gradient-to-r from-yellow-500/10 via-orange-500/5 to-blue-500/10 blur-3xl rounded-full"></div>
+            
+            {/* Main title */}
+            <h1 className="hero-title relative text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight leading-tight">
+              <div className="overflow-hidden mb-2">
+                <span className="word inline-block">
+                  <span className="font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 drop-shadow-[0_2px_2px_rgba(0,0,0,0.3)]">
+                    Yorùbá
+                  </span>
                 </span>
-              </span>
-            </div>
-            <div className="overflow-hidden">
-              <span className="word inline-block">
-                Dictionary
-              </span>
-            </div>
-            {/* Decorative underline */}
-            <div className="hero-title-line relative mx-auto mt-4 h-1 w-24 bg-gradient-to-r from-primary via-accent to-primary rounded-full"></div>
-          </h1>
+              </div>
+              <div className="overflow-hidden">
+                <span className="word inline-block">
+                  <span className="font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 via-blue-500 to-purple-600 drop-shadow-[0_2px_2px_rgba(0,0,0,0.3)]">
+                    Dictionary
+                  </span>
+                </span>
+              </div>
+              
+              {/* Enhanced decorative elements */}
+              <div className="absolute -left-4 top-1/2 -translate-y-1/2 w-1 h-16 bg-gradient-to-b from-yellow-400 to-red-500 rounded-full hidden md:block"></div>
+              <div className="absolute -right-4 top-1/2 -translate-y-1/2 w-1 h-16 bg-gradient-to-b from-emerald-400 to-purple-600 rounded-full hidden md:block"></div>
+              
+              {/* Decorative underline with enhanced styling */}
+              <div className="hero-title-line relative mx-auto mt-6 h-1.5 w-32 bg-gradient-to-r from-yellow-400 via-blue-500 to-purple-600 rounded-full shadow-[0_2px_4px_rgba(0,0,0,0.2)]"></div>
+              
+              {/* Small decorative dots */}
+              <div className="absolute left-1/2 -translate-x-1/2 -bottom-8 flex gap-2">
+                <div className="w-1.5 h-1.5 rounded-full bg-yellow-400"></div>
+                <div className="w-1.5 h-1.5 rounded-full bg-orange-500"></div>
+                <div className="w-1.5 h-1.5 rounded-full bg-blue-500"></div>
+                <div className="w-1.5 h-1.5 rounded-full bg-purple-600"></div>
+              </div>
+            </h1>
+          </div>
           
           <p className="hero-description text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed drop-shadow-sm">
             Explore the rich vocabulary of the Yorùbá language with our comprehensive 

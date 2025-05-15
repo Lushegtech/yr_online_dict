@@ -9,10 +9,10 @@ import { LanguageResourcesSection } from "@/components/dictionary/LanguageResour
 
 // Move the example data to a separate file or API endpoint in a real application
 const getDictionaryStats = () => ({
-  wordCount: 7650,
-  translationCount: 784717,
-  contributors: 1250,
-  lastUpdated: "2024-02-20"
+  wordCount: 6656,
+  translationCount: 12217,
+  examples: 40164,
+  lastUpdated: "2025-05-15"
 })
 
 export default function Home() {
