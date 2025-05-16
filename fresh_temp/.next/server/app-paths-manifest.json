@@ -1,0 +1,17 @@
+{
+  "/api/dictionary/alphabet/[letter]/route": "app/api/dictionary/alphabet/[letter]/route.js",
+  "/api/dictionary/alphabet/route": "app/api/dictionary/alphabet/route.js",
+  "/api/dictionary/cultural-facts/random/route": "app/api/dictionary/cultural-facts/random/route.js",
+  "/api/dictionary/cultural-facts/route": "app/api/dictionary/cultural-facts/route.js",
+  "/api/dictionary/search/route": "app/api/dictionary/search/route.js",
+  "/api/dictionary/suggestions/route": "app/api/dictionary/suggestions/route.js",
+  "/api/dictionary/word-of-the-day/route": "app/api/dictionary/word-of-the-day/route.js",
+  "/api/dictionary/word/[id]/route": "app/api/dictionary/word/[id]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/about/page": "app/about/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favorites/page": "app/favorites/page.js",
+  "/history/page": "app/history/page.js",
+  "/word/[id]/page": "app/word/[id]/page.js",
+  "/page": "app/page.js"
+}

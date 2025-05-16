@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[7928,["372","static/chunks/372-94c57a36232640b0.js","177","static/chunks/app/layout-692ba7691316102f.js"],"ThemeProvider"]
+3:I[9287,[],""]
+4:I[4235,[],""]
+5:I[7587,["995","static/chunks/995-c8aa59e67e8f7b7e.js","534","static/chunks/534-3cb1f4d40dd401c6.js","345","static/chunks/app/not-found-ecaf6943df069aea.js"],"default"]
+6:I[8262,["372","static/chunks/372-94c57a36232640b0.js","177","static/chunks/app/layout-692ba7691316102f.js"],"ToastProvider"]
+7:I[4754,[],"ClientPageRoot"]
+8:I[4038,["995","static/chunks/995-c8aa59e67e8f7b7e.js","220","static/chunks/app/about/page-f25ecba1cb6616f8.js"],"default"]
+b:I[3621,[],"MetadataBoundary"]
+d:I[3621,[],"OutletBoundary"]
+10:I[6867,[],"AsyncMetadataOutlet"]
+12:I[3621,[],"ViewportBoundary"]
+14:I[7890,[],""]
+:HL["/_next/static/css/242a52daa8a13f2f.css","style"]
+0:{"P":null,"b":"B9_wU6V59nQoJ706MYbuv","p":"","c":["","about"],"i":false,"f":[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/242a52daa8a13f2f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"scroll-smooth __variable_b60464","children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased flex flex-col selection:bg-primary/20 selection:text-primary","children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","div",null,{"className":"flex min-h-screen w-full flex-col","children":[["$","main",null,{"className":"flex-1 w-full","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]}]}]]}],{"children":["about",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L7",null,{"Component":"$8","searchParams":{},"params":{},"promises":["$@9","$@a"]}],["$","$Lb",null,{"children":"$Lc"}],null,["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Fgg7FdTkEDCx4tHX2GIly",{"children":[["$","$L12",null,{"children":"$L13"}],null]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
+15:"$Sreact.suspense"
+16:I[6867,[],"AsyncMetadata"]
+9:{}
+a:{}
+c:["$","$15",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]
+f:null
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#ffffff"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#0f0f0f"}]]
+e:null
+17:{"metadata":[["$","title","0",{"children":"Yorùbá Dictionary | Award-Winning Language Resource"}],["$","meta","1",{"name":"description","content":"Explore the rich vocabulary of the Yorùbá language with our comprehensive dictionary. Search for words, meanings, pronunciations, and cultural context."}],["$","meta","2",{"name":"author","content":"Yorùbá Dictionary Team"}],["$","meta","3",{"name":"keywords","content":"Yorùbá,dictionary,language,Nigeria,African languages,translation"}],["$","meta","4",{"name":"creator","content":"Yorùbá Dictionary"}],["$","meta","5",{"name":"publisher","content":"Yorùbá Dictionary"}],["$","meta","6",{"property":"og:title","content":"Yorùbá Dictionary | Award-Winning Language Resource"}],["$","meta","7",{"property":"og:description","content":"Explore the rich vocabulary of the Yorùbá language with our comprehensive dictionary."}],["$","meta","8",{"property":"og:url","content":"https://yorubadictionary.com"}],["$","meta","9",{"property":"og:site_name","content":"Yorùbá Dictionary"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:creator","content":"@yorubadictionary"}],["$","meta","14",{"name":"twitter:title","content":"Yorùbá Dictionary"}],["$","meta","15",{"name":"twitter:description","content":"Award-winning Yorùbá language resource"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","17",{"rel":"icon","href":"/favicon.ico"}]],"error":null,"digest":"$undefined"}
+11:{"metadata":"$17:metadata","error":null,"digest":"$undefined"}

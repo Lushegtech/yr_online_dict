@@ -1,0 +1,17 @@
+{
+  "/api/dictionary/alphabet/[letter]/route": "/api/dictionary/alphabet/[letter]",
+  "/api/dictionary/alphabet/route": "/api/dictionary/alphabet",
+  "/api/dictionary/cultural-facts/random/route": "/api/dictionary/cultural-facts/random",
+  "/api/dictionary/cultural-facts/route": "/api/dictionary/cultural-facts",
+  "/api/dictionary/search/route": "/api/dictionary/search",
+  "/api/dictionary/suggestions/route": "/api/dictionary/suggestions",
+  "/api/dictionary/word-of-the-day/route": "/api/dictionary/word-of-the-day",
+  "/api/dictionary/word/[id]/route": "/api/dictionary/word/[id]",
+  "/favicon.ico/route": "/favicon.ico",
+  "/about/page": "/about",
+  "/_not-found/page": "/_not-found",
+  "/favorites/page": "/favorites",
+  "/history/page": "/history",
+  "/word/[id]/page": "/word/[id]",
+  "/page": "/"
+}
