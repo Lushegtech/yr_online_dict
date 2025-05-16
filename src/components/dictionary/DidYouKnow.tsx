@@ -357,7 +357,7 @@ export function DidYouKnow() {
                             Yoruba Proverb
                           </h4>
                           <p className="text-md italic text-yoruba-indigo/90 dark:text-yoruba-cream/90 font-medium">
-                            "{fact.example.proverb}"
+                            &ldquo;{fact.example.proverb}&rdquo;
                           </p>
                           <div className="flex items-center pt-2">
                             <div className="h-[1px] flex-grow bg-yoruba-indigo/20"></div>

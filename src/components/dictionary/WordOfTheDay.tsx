@@ -102,7 +102,7 @@ export function WordOfTheDay() {
                 </p>
                 <div className="pt-2 border-t border-yoruba-gold/20">
                   <p className="text-yoruba-indigo dark:text-yoruba-gold italic font-serif">
-                    "Ọba tuntun jẹ ọba tó dára."
+                    &ldquo;Ọba tuntun jẹ ọba tó dára.&rdquo;
                   </p>
                   <p className="text-sm text-muted-foreground mt-1">
                     The new king is a good king.

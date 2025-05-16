@@ -72,7 +72,7 @@ export function NotFoundSuggestions({ searchTerm, suggestions = [] }: NotFoundSu
           <div>
             <CardTitle className="text-2xl text-yoruba-indigo">Word Not Found</CardTitle>
             <p className="mt-1 text-muted-foreground">
-              We couldn't find "<span className="font-medium">{searchTerm}</span>" in our dictionary
+              We couldn&apos;t find &ldquo;<span className="font-medium">{searchTerm}</span>&rdquo; in our dictionary
             </p>
           </div>
         </div>

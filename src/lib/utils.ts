@@ -18,13 +18,13 @@ export function generateId(prefix = ""): string {
 }
 
 // Debounce function for search inputs
-export function debounce<T extends (...args: any[]) => any>(
-  func: T,
+export function debounce<F extends (...args: unknown[]) => unknown>(
+  func: F,
   wait: number
-): (...args: Parameters<T>) => void {
+): (...args: Parameters<F>) => void {
   let timeout: NodeJS.Timeout
 
-  return function executedFunction(...args: Parameters<T>) {
+  return function executedFunction(...args: Parameters<F>) {
     const later = () => {
       clearTimeout(timeout)
       func(...args)

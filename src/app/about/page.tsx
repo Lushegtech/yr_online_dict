@@ -65,7 +65,7 @@ export default function AboutPage() {
                 <p>
                   We continue to expand our database and welcome contributions from the 
                   community. If you notice any errors or would like to suggest additions, 
-                  please use the "Submit a Request" feature.
+                  please use the &ldquo;Submit a Request&rdquo; feature.
                 </p>
               </div>
             </CardContent>

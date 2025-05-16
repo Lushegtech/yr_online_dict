@@ -82,11 +82,11 @@ export default function WordDetailPage() {
         ].slice(0, 5);
         localStorage.setItem('recentlyViewed', JSON.stringify(updatedRecent));
         } catch (error) {
-          console.error("Error updating recently viewed:", error);
+          void console.error("Error updating recently viewed:", error);
         }
         
       } catch (error) {
-        console.error("Error fetching word:", error);
+        void console.error("Error fetching word:", error);
         setError("Failed to load word details");
       } finally {
         setLoading(false);
@@ -102,11 +102,11 @@ export default function WordDetailPage() {
       const audio = new Audio(wordData.audioUrl);
       audio.onended = () => setPlayingAudio(false);
       audio.onerror = () => {
-        console.error("Error playing audio");
+        void console.error("Error playing audio");
         setPlayingAudio(false);
       };
-      audio.play().catch(err => {
-        console.error("Error playing audio:", err);
+      void audio.play().catch(err => {
+        void console.error("Error playing audio:", err);
         setPlayingAudio(false);
       });
     }
@@ -129,24 +129,24 @@ export default function WordDetailPage() {
         alert('Already in your favorites!');
       }
     } catch (error) {
-      console.error("Error updating favorites:", error);
+      void console.error("Error updating favorites:", error);
     }
   };
 
   const shareWord = () => {
     if (navigator.share && wordData) {
-      navigator.share({
+      void navigator.share({
         title: `Yoruba Dictionary: ${wordData.word}`,
         text: `Learn about the Yoruba word &quot;${wordData.word}&quot;`,
         url: window.location.href
       })
-      .catch(error => console.error('Error sharing:', error));
+      .catch(error => { void console.error('Error sharing:', error); });
     } else {
       // Fallback for browsers that don't support the Web Share API
       const url = window.location.href;
-      navigator.clipboard.writeText(url)
+      void navigator.clipboard.writeText(url)
         .then(() => alert('Link copied to clipboard!'))
-        .catch(err => console.error('Failed to copy link:', err));
+        .catch(err => { void console.error('Failed to copy link:', err); });
     }
   };
   
@@ -155,7 +155,7 @@ export default function WordDetailPage() {
     if (!wordData?.translations?.length) return [];
     
     // Group translations by part of speech
-    const posGroups: Record<string, any[]> = {};
+    const posGroups: Record<string, WordData['translations']> = {};
     wordData.translations.forEach(translation => {
       // Use translation-specific part of speech if available, otherwise fallback to word's part of speech
       const pos = translation.partOfSpeech || wordData.partOfSpeech || 'Unknown';

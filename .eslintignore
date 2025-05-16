@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Build outputs
+node_modules/
+.next/
+out/
+build/
+dist/
+public/
+
+# Generated files
+**/*.min.js
+src/lib/prisma/generated/**
+src/lib/prisma/client/**
+**/*wasm.js
+**/*react-native.js
+**/*runtime/**
+
+# Generated code
+src/lib/prisma/generated/
+src/lib/prisma/client/
+src/lib/prisma/generated/**/*
+**/generated/**/*
+**/runtime/**
+**/*.generated.*
+**/*.d.ts
+
+# Config files
+next.config.js
+
+# Generated Prisma files
+src/lib/prisma/generated/
+src/lib/prisma/client/
+src/lib/prisma/generated/runtime/
+src/lib/prisma/generated/runtime/wasm.js
+src/lib/prisma/generated/runtime/react-native.js
+src/lib/prisma/generated/wasm.js

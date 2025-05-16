@@ -1,6 +1,6 @@
 import { MainLayout } from "@/components/layout/MainLayout"
 import { DictionarySearch } from "@/components/search/DictionarySearch"
-import { SearchResults } from "@/components/dictionary/SearchResults"
+// import { SearchResults } from "@/components/dictionary/SearchResults" - Removed unused import
 import { WordOfTheDay } from "@/components/dictionary/WordOfTheDay"
 import { DictionaryStats } from "@/components/dictionary/DictionaryStats"
 import { ContributeSection } from "@/components/dictionary/ContributeSection"

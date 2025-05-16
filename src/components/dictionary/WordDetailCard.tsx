@@ -112,7 +112,7 @@ export function WordDetailCard({ word, className }: WordDetailCardProps) {
           {word.example && (
             <div className="pt-2 border-t border-yoruba-gold/20">
               <p className="text-yoruba-indigo dark:text-yoruba-gold italic font-serif">
-                "{word.example.yoruba}"
+                &ldquo;{word.example.yoruba}&rdquo;
               </p>
               <p className="text-sm text-muted-foreground mt-1 flex items-center gap-1">
                 <CornerDownLeft className="h-3 w-3" />
