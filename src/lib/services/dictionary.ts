@@ -403,6 +403,27 @@ export const DictionaryService = {
     
     return facts;
   },
+  
+  /**
+   * Test database connection
+   */
+  async testDatabaseConnection() {
+    try {
+      // Try a simple database operation to verify connection
+      const count = await prisma.word.count();
+      return {
+        connected: true,
+        count,
+        timestamp: new Date().toISOString()
+      };
+    } catch (error) {
+      return {
+        connected: false,
+        error: error instanceof Error ? error.message : String(error),
+        timestamp: new Date().toISOString()
+      };
+    }
+  },
 };
 
 export default DictionaryService; 
