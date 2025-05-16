@@ -185,8 +185,8 @@ export function SidePanel({
                         className="w-full text-left p-2.5 rounded-md bg-background/60 hover:bg-background shadow-sm hover:shadow-md border border-border/30 hover:border-primary/20 transition-all flex justify-between cursor-pointer"
                         role="button"
                         tabIndex={0}
-                        onClick={() => {}}
-                        onKeyDown={(e) => {if (e.key === 'Enter') {}}}
+                        onClick={() => { /* no-op */ }}
+                        onKeyDown={(e) => { if (e.key === 'Enter') { /* no-op */ } }}
                       >
                             <div>
                           <div className="font-medium text-sm">{item.term}</div>
@@ -212,8 +212,8 @@ export function SidePanel({
                         className="w-full text-left p-2.5 rounded-md bg-background/60 hover:bg-background shadow-sm hover:shadow-md border border-border/30 hover:border-primary/20 transition-all flex justify-between cursor-pointer"
                         role="button"
                         tabIndex={0}
-                        onClick={() => {}}
-                        onKeyDown={(e) => {if (e.key === 'Enter') {}}}
+                        onClick={() => { /* no-op */ }}
+                        onKeyDown={(e) => { if (e.key === 'Enter') { /* no-op */ } }}
                       >
                             <div>
                           <div className="font-medium text-sm">{item.term}</div>

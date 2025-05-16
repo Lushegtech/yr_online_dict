@@ -355,7 +355,7 @@ export function DictionarySearch() {
             type="button"
             className="absolute right-4 p-2 hover:bg-yoruba-coral/10 text-yoruba-coral hover:text-yoruba-coral-hover 
                       rounded-full transition-colors yoruba-interactive"
-            onClick={() => {/* Implement voice search */}}
+            onClick={() => { /* Implement voice search - not yet functional */ }}
             aria-label="Search with voice"
           >
             <Mic className="h-5 w-5" />
