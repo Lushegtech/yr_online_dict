@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "prisma generate && next build",
     "start": "next start",
     "lint": "next lint --dir src/app --dir src/components --dir src/layouts --dir src/hooks --dir src/context --dir src/utils",
     "lint:safe": "eslint --max-warnings=0 --ext .js,.ts,.tsx --ignore-pattern 'src/lib/prisma/generated/**' --ignore-pattern 'src/lib/prisma/client/**' .",
