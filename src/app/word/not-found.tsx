@@ -1,13 +1,13 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, Suspense } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { MainLayout } from '@/components/layout/MainLayout'
 import { NotFoundSuggestions } from '@/components/dictionary/NotFoundSuggestions'
 import { Button } from '@/components/ui/button'
 import { ArrowLeft } from 'lucide-react'
 
-export default function WordNotFound() {
+function WordNotFoundContent() {
   const router = useRouter()
   const searchParams = useSearchParams()
   const searchTerm = searchParams.get('q') || ''
@@ -55,5 +55,13 @@ export default function WordNotFound() {
         </div>
       </div>
     </MainLayout>
+  )
+}
+
+export default function WordNotFound() {
+  return (
+    <Suspense fallback={<div className="p-16 text-center">Loading...</div>}>
+      <WordNotFoundContent />
+    </Suspense>
   )
 } 
