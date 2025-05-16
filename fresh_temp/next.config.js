@@ -8,11 +8,20 @@ const nextConfig = {
   // Basic configuration
   reactStrictMode: true,
   
+  // Output configuration for static assets
+  output: 'standalone',
+  
+  // Ensure proper asset path resolution
+  basePath: '',
+  assetPrefix: '',
+  
   // Server Actions configuration
   experimental: {
     serverActions: {
       bodySizeLimit: '2mb'
-    }
+    },
+    // Add CSS optimization
+    optimizeCss: true
   },
   
   // Static headers for caching
