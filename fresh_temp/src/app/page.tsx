@@ -12,7 +12,8 @@ const getDictionaryStats = () => ({
   wordCount: 7650,
   translationCount: 784717,
   contributors: 1250,
-  lastUpdated: "2024-02-20"
+  lastUpdated: "2024-02-20",
+  examples: 3500
 })
 
 export default function Home() {

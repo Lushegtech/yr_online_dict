@@ -10,6 +10,7 @@ interface DictionaryStatsProps {
   translationCount: number
   contributors: number
   lastUpdated: string
+  examples: number
 }
 
 const AnimatedCounter = ({ value, duration = 2 }: { value: number; duration?: number }) => {
@@ -78,6 +79,7 @@ export function DictionaryStats({
   translationCount,
   contributors,
   lastUpdated,
+  examples,
 }: DictionaryStatsProps) {
   return (
     <section className="relative py-12 md:py-16">
@@ -119,8 +121,8 @@ export function DictionaryStats({
           />
           <StatCard
             icon={Users}
-            label="Contributors"
-            value={contributors}
+            label="Examples"
+            value={examples}
             delay={0.5}
           />
           <StatCard
