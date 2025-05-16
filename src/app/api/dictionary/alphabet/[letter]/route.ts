@@ -2,13 +2,11 @@ import { NextRequest, NextResponse } from 'next/server';
 import DictionaryService from '@/lib/services/dictionary';
 
 export async function GET(
-  request: NextRequest, 
-  context: { params: { letter: string } }
+  request: NextRequest,
+  { params }: { params: { letter: string } }
 ) {
   try {
-    // Properly access params in Next.js by ensuring they're resolved
-    const params = await context.params;
-    const letter = params.letter;
+    const { letter } = params;
     const { searchParams } = new URL(request.url);
     const page = searchParams.get('page') ? parseInt(searchParams.get('page')!) : 1;
     const limit = searchParams.get('limit') ? parseInt(searchParams.get('limit')!) : 50;

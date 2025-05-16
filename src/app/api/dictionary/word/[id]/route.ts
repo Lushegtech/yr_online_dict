@@ -3,11 +3,9 @@ import DictionaryService from '@/lib/services/dictionary';
 
 export async function GET(
   request: NextRequest,
-  context: { params: { id: string } }
+  { params }: { params: { id: string } }
 ) {
   try {
-    // Properly access params in Next.js by ensuring they're resolved
-    const params = await context.params;
     const { id } = params;
     
     console.log(`[API] Fetching word details for ID: ${id}`);
