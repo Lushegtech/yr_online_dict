@@ -2,11 +2,13 @@ import { NextRequest, NextResponse } from 'next/server';
 import DictionaryService from '@/lib/services/dictionary';
 
 export async function GET(
-  request: NextRequest,
-  { params }: { params: { id: string } }
+  request: NextRequest
 ) {
   try {
-    const { id } = params;
+    // Extract id from the URL path
+    const url = new URL(request.url);
+    const pathParts = url.pathname.split('/');
+    const id = pathParts[pathParts.length - 1];
     
     console.log(`[API] Fetching word details for ID: ${id}`);
 

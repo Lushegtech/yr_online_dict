@@ -2,12 +2,14 @@ import { NextRequest, NextResponse } from 'next/server';
 import DictionaryService from '@/lib/services/dictionary';
 
 export async function GET(
-  request: NextRequest,
-  { params }: { params: { letter: string } }
+  request: NextRequest
 ) {
   try {
-    const { letter } = params;
     const { searchParams } = new URL(request.url);
+    const url = new URL(request.url);
+    const pathParts = url.pathname.split('/');
+    const letter = pathParts[pathParts.length - 1];
+    
     const page = searchParams.get('page') ? parseInt(searchParams.get('page')!) : 1;
     const limit = searchParams.get('limit') ? parseInt(searchParams.get('limit')!) : 50;
 
