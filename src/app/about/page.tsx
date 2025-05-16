@@ -1,15 +1,8 @@
-'use client';
-
-import { useEffect, useState } from 'react';
+// No longer need client-side rendering since we're not using any client-side state
+import React from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 
 export default function AboutPage() {
-  const [isMounted, setIsMounted] = useState(false);
-
-  useEffect(() => {
-    setIsMounted(true);
-  }, []);
-
   return (
     <div className="relative min-h-screen bg-gradient-to-b from-background to-primary/5">
       <div className="relative z-10 py-16 px-4">
@@ -96,7 +89,7 @@ export default function AboutPage() {
             </Card>
             
             <Card className="shadow-sm p-6">
-              <h3 className="text-xl font-bold mb-2">Rich Literature</h3>
+              <h2 className="text-xl font-bold mb-2">Rich Literature</h2>
               <p className="text-muted-foreground">
                 From oral traditions to modern novels, Yorùbá has a vibrant 
                 literary tradition spanning centuries.

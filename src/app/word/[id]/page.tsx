@@ -8,6 +8,13 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { ArrowLeft, Loader2, Volume2, BookOpen, Star, Share2, Users } from 'lucide-react';
 
+// Define FavoriteItem interface for localStorage favorites
+interface FavoriteItem {
+  id: string;
+  word: string;
+  timestamp: string;
+}
+
 // Define WordData interface based on what the API actually returns
 interface WordData {
   id: string;
@@ -110,7 +117,7 @@ export default function WordDetailPage() {
     
     try {
       const favorites = JSON.parse(localStorage.getItem('favorites') || '[]');
-      if (!favorites.some((fav: any) => fav.id === wordData.id)) {
+      if (!favorites.some((fav: FavoriteItem) => fav.id === wordData.id)) {
         favorites.push({
           id: wordData.id,
           word: wordData.word,
@@ -130,7 +137,7 @@ export default function WordDetailPage() {
     if (navigator.share && wordData) {
       navigator.share({
         title: `Yoruba Dictionary: ${wordData.word}`,
-        text: `Learn about the Yoruba word "${wordData.word}"`,
+        text: `Learn about the Yoruba word &quot;${wordData.word}&quot;`,
         url: window.location.href
       })
       .catch(error => console.error('Error sharing:', error));
@@ -196,7 +203,7 @@ export default function WordDetailPage() {
           <Card className="word-detail-card bg-background/95 border shadow-moderate p-8 text-center">
             <h2 className="text-2xl font-bold mb-4">Word Not Found</h2>
             <p className="text-muted-foreground mb-6">
-              Sorry, we couldn't find the word you're looking for in our dictionary.
+              Sorry, we couldn&apos;t find the word you&apos;re looking for in our dictionary.
             </p>
             <Button 
               onClick={() => router.push('/')}
@@ -416,7 +423,7 @@ export default function WordDetailPage() {
           <Card className="p-4 bg-background/50 shadow-sm">
             <h3 className="text-sm font-medium mb-2">Related Words</h3>
             <div className="space-y-1 text-sm">
-              <p className="text-muted-foreground">Words related to "{wordData.word}" will appear here</p>
+              <p className="text-muted-foreground">Words related to &quot;{wordData.word}&quot; will appear here</p>
             </div>
           </Card>
           <Card className="p-4 bg-background/50 shadow-sm">
