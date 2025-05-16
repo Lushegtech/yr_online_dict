@@ -138,7 +138,7 @@ export function SidePanel({
         
         {/* Main Navigation */}
         <nav className="py-2 px-2">
-          {mainNavLinks.map((link) => (
+          {mainNavLinks.map((link: { name: string; href: string; icon: React.ReactNode }) => (
             <Link 
               key={link.name} 
               href={link.href} 

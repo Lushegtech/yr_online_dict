@@ -49,7 +49,7 @@ export function FloatingElements({
     // Create a GSAP context for animations
     const ctx = gsap.context(() => {
       // Animate each floating element
-      elementsRef.current.forEach((element) => {
+      elementsRef.current.forEach((element: HTMLDivElement | null) => {
         if (!element) return;
         
         // Randomize animation parameters for natural movement

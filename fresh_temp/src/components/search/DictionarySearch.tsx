@@ -160,7 +160,7 @@ export function DictionarySearch() {
           // Check if we should show the diacritic tip
           if (!hasDiacritics) {
             const suggestionHasDiacritics = apiSuggestions.some(
-              (s) => /[\u0300-\u036f]/.test(s.word.normalize('NFD'))
+              (s: SearchSuggestion) => /[\u0300-\u036f]/.test(s.word.normalize('NFD'))
             );
             setShowDiacriticTip(suggestionHasDiacritics);
           }
